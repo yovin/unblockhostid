@@ -55,5 +55,5 @@ Buka aplikasinya, klik "Hosts Setting", Pilih filenya (file hosts yang telah di 
 Buka terminal, lalu ketik atau salin kode di bawah ini
 
 ```
-curl -sfLS https://raw.githubusercontent.com/gvoze32/unblockhostid/master/hosts >> /etc/hosts
+sudo wget -O /etc/hosts https://raw.githubusercontent.com/gvoze32/unblockhostid/master/hosts
 ```
