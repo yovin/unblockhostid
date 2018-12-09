@@ -1,4 +1,17 @@
 # Changelog
+**4.6** Minor update on app, bugs fix, delete & added more sites
+- Hentaikey.com
+- Mangazuki.co
+- Thisvid.com
+- Bitporno.com
+- Primevideo.com
+
+```
+Fixed bug on Hitomi, Dlsite, Narutopixxx, E621, Fakku
+Deleted Dlsite.net
+Improved INSTALL.md
+```
+
 **4.5** Major update on app and hosts system, bugs fix, delete & added more sites
 - Watchjavonline.com
 - Thatpervert.com
