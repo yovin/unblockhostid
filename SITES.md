@@ -331,3 +331,8 @@
 - Celebsflash.com
 - Erome.com
 - Studiofow.com
+- Hentaikey.com
+- Mangazuki.co
+- Thisvid.com
+- Bitporno.com
+- Primevideo.com
