@@ -8,7 +8,7 @@
 
 ```
 Fixed bug on Hitomi, Dlsite, Narutopixxx, E621, Fakku
-Deleted Dlsite.net
+Deleted Dlsite.jp
 Improved INSTALL.md
 ```
 
