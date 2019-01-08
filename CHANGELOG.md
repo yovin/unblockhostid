@@ -1,5 +1,19 @@
 # Changelog
-**4.6** Minor update on app, bugs fix, delete & added more sites
+**v4.7** Bugs fix, delete & added more sites
+- Hentai-cosplay.com
+- Fenhentai.blogspot.com
+- Narutopixxxhd.blogspot.com
+- Kin8tengoku.com
+- Xxxpawn.xxx
+- Animemeeting.com
+- Manhwahentai.com
+
+```
+Fixed bug on Thisvid, Thatpervert, Netflix, Newgrounds
+Deleted Tumblr
+```
+
+**v4.6** Minor update on app, bugs fix, delete & added more sites
 - Hentaikey.com
 - Mangazuki.co
 - Thisvid.com
@@ -12,7 +26,7 @@ Deleted Dlsite.jp
 Improved INSTALL.md
 ```
 
-**4.5** Major update on app and hosts system, bugs fix, delete & added more sites
+**v4.5** Major update on app and hosts system, bugs fix, delete & added more sites
 - Watchjavonline.com
 - Thatpervert.com
 - Javwhores.com
@@ -24,7 +38,7 @@ Improved INSTALL.md
 - Studiofow.com
 
 ```
-Fixed bug on Donmai, Javlibrary, Hitomi, Reddit, Vimeo, Mywife, Aznude, Mrskin, Mrpornx, & Pornhub (Non-ID ver.).
+Fixed bug on Donmai, Javlibrary, Hitomi, Reddit, Vimeo, Mywife, Aznude, Pornhub (Non-ID ver.), Mrskin, & Mrpornx
 ```
 
 **v4.4** App feature update, new version code, bugs fix, delete & added more sites
