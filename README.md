@@ -1,7 +1,7 @@
 `Donate: 081554707531`
 
 # UNBLOCKHOSTID
-Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
+Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts.
 
 # Download
 Untuk menggunakan aplikasi ini, kamu bisa download [disini](https://unblockhostid.github.io)
