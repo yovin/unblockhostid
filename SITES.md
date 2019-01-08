@@ -343,3 +343,4 @@
 - Xxxpawn.xxx
 - Animemeeting.com
 - Manhwahentai.com
+- Moviedetector.me
