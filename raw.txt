@@ -304,8 +304,7 @@
 163.172.85.31 porneq.com
 
 [NEWGROUNDS.COM]
-104.20.29.55 newgrounds.com
-104.20.28.55 www.newgrounds.com
+54.39.161.27 newgrounds.com www.newgrounds.com
 
 [MOFOS.COM]
 216.18.168.90 members2.mofos.com
@@ -369,31 +368,16 @@
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 [NETFLIX.COM]
-35.166.68.183 netflix.com www.netflix.com
-54.208.233.73 netflix.com www.netflix.com
-52.204.167.205 netflix.com www.netflix.com
-35.169.83.64 netflix.com www.netflix.com
-52.71.147.164 netflix.com www.netflix.com
-34.234.59.120 netflix.com www.netflix.com
-54.165.246.104 netflix.com www.netflix.com
-34.229.8.114 netflix.com www.netflix.com
-54.87.188.169 netflix.com www.netflix.com
-52.11.150.110 api-global.netflix.com
-35.167.175.91 api-global.netflix.com
-52.10.204.224 api-global.netflix.com
-35.166.90.31 api-global.netflix.com
-52.10.97.109 api-global.netflix.com
-35.162.123.201 api-global.netflix.com
-35.163.72.109 api-global.netflix.com
-35.167.147.180 api-global.netflix.com
-52.10.238.187 ichnaea.netflix.com
-52.11.15.200 ichnaea.netflix.com
-52.10.41.182 ichnaea.netflix.com
-35.164.67.16 ichnaea.netflix.com
-52.32.129.39 ichnaea.netflix.com
-35.166.48.236 ichnaea.netflix.com
-35.163.6.39 ichnaea.netflix.com
-54.68.48.136 ichnaea.netflix.com
+23.40.252.158 assets.nflxext.com
+69.172.200.241 ir.netflix.com
+54.192.13.23 media.netflix.com
+54.191.94.148 www.netflix.com
+34.211.85.116 help.netflix.com
+34.210.61.133 jobs.netflix.com
+23.40.252.158 codex.nflxext.com
+52.30.128.237 netflix.com
+52.37.168.202 api-global.netflix.com
+52.34.255.169 ichnaea.netflix.com
 
 [KISSMANGA.COM]
 104.25.45.113 kissmanga.com www.kissmanga.com
@@ -758,20 +742,6 @@
 
 [HH.CX]
 198.16.106.42 hh.cx www.hh.cx
-
-[TUMBLR.COM]
-66.6.32.31 tumblr.com www.tumblr.com
-216.115.100.123 assets.tumblr.com
-216.115.100.123 platform.tumblr.com
-216.115.100.125 media.tumblr.com
-216.115.100.126 api.tumblr.com
-216.115.100.125 static.tumblr.com
-216.115.100.126 vtt.tumblr.com
-216.115.100.125 78.media.tumblr.com
-216.115.100.125 24.media.tumblr.com
-216.115.100.125 31.media.tumblr.com
-216.115.100.125 92.media.tumblr.com
-216.115.100.125 a.tumblr.com
 
 [85PORN.com]
 144.217.252.134 85porn.com www.85porn.com
@@ -1368,6 +1338,9 @@
 
 [TOKYOMOTION.NET]
 64.187.151.194 tokyomotion.net www.tokyomotion.net
+64.187.150.107 www1.tokyomotion.net www2.tokyomotion.net www3.tokyomotion.net www4.tokyomotion.net www5.tokyomotion.net www6.tokyomotion.net www7.tokyomotion.net www8.tokyomotion.net www9.tokyomotion.net www10.tokyomotion.net
+64.187.150.107 www11.tokyomotion.net www12.tokyomotion.net www13.tokyomotion.net www14.tokyomotion.net www15.tokyomotion.net www16.tokyomotion.net www17.tokyomotion.net www18.tokyomotion.net www19.tokyomotion.net www20.tokyomotion.net
+64.187.150.107 www21.tokyomotion.net www22.tokyomotion.net www23.tokyomotion.net www24.tokyomotion.net www25.tokyomotion.net www26.tokyomotion.net www27.tokyomotion.net
 
 [JAVHAY.PRO]
 216.239.34.21 javhay.pro www.javhay.pro
@@ -1382,7 +1355,9 @@
 104.18.60.49 watchjavonline.com www.watchjavonline.com
 
 [THATPERVERT.COM]
-149.202.210.15 thatpervert.com www.thatpervert.com www.img0.thatpervert.com
+149.202.210.15 thatpervert.com www.thatpervert.com
+173.208.232.194 img0.thatpervert.com
+142.44.137.239 img1.thatpervert.com
 
 [JAVWHORES.COM]
 185.107.83.68 javwhores.com www.javwhores.com
@@ -1416,6 +1391,7 @@
 
 [THISVID.COM]
 185.56.235.5 thisvid.com www.thisvid.com
+88.208.31.24 jupiter.thisvid.com jupiter1.thisvid.com jupiter2.thisvid.com jupiter3.thisvid.com
 
 [BITPORNO.COM]
 179.43.191.62 bitporno.com www.bitporno.com
@@ -1423,3 +1399,28 @@
 
 [PRIMEVIDEO.COM]
 52.85.201.207 primevideo.com www.primevideo.com
+
+[HENTAI-COSPLAY.COM]
+104.24.126.173 hentai-cosplay.com www.hentai-cosplay.com
+
+[FENHENTAI.BLOGSPOT.COM]
+216.58.194.193 fenhentai.blogspot.com www.fenhentai.blogspot.com
+
+[NARUTOPIXXXHD.BLOGSPOT.COM]
+216.58.194.193 narutopixxxhd.blogspot.com www.narutopixxxhd.blogspot.com
+
+[KIN8TENGOKU.COM]
+65.39.253.115 kin8tengoku.com www.kin8tengoku.com
+
+[XXXPAWN.XXX]
+104.28.14.209 xxxpawn.xxx www.xxxpawn.xxx
+
+[ANIMEMEETING.COM]
+216.239.36.21 animemeeting.com www.animemeeting.com
+172.217.6.51 ors-renders.animemeeting.com ors-renders-ero.animemeeting.com
+
+[MANHWAHENTAI.COM]
+104.25.188.20 manhwahentai.com www.manhwahentai.com
+
+[MOVIEDETECTOR.ME]
+198.252.105.94 moviedetector.me www.moviedetector.me
