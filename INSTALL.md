@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/gvoze32/unblockhostid/master/hosts
 
 Salin kode diatas lalu kembali ke AdAway dan tambahkan
 
-Centang opsi "Allow Redirections" di Settings (Thx to @TrixPone)
+Centang opsi "Allow Redirections" di Settings (Thanks to @TrixPone)
 
 Apply
 
@@ -52,7 +52,7 @@ Buka aplikasinya, klik "Hosts Setting", Pilih filenya (file hosts yang telah di 
 
 ## Linux / BSD / macOS
 
-Buka terminal, lalu ketik atau salin kode di bawah ini
+Buka terminal, lalu ketik atau salin kode di bawah ini lalu enter (Thanks to @anakaiti)
 
 ```
 sudo wget -O /etc/hosts https://raw.githubusercontent.com/gvoze32/unblockhostid/master/hosts
