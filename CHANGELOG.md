@@ -7,6 +7,7 @@
 - Xxxpawn.xxx
 - Animemeeting.com
 - Manhwahentai.com
+- Moviedetector.me
 
 ```
 Fixed bug on Thisvid, Thatpervert, Netflix, Newgrounds
