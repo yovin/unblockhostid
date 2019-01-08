@@ -336,3 +336,10 @@
 - Thisvid.com
 - Bitporno.com
 - Primevideo.com
+- Hentai-cosplay.com
+- Fenhentai.blogspot.com
+- Narutopixxxhd.blogspot.com
+- Kin8tengoku.com
+- Xxxpawn.xxx
+- Animemeeting.com
+- Manhwahentai.com
