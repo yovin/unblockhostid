@@ -1,5 +1,5 @@
 # Changelog
-**v4.7** Bugs fix, delete & added more sites
+**v4.7** Improved app layout, bugs fix, delete & added more sites
 - Hentai-cosplay.com
 - Fenhentai.blogspot.com
 - Narutopixxxhd.blogspot.com
