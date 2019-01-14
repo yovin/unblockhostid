@@ -57,3 +57,8 @@ Buka terminal, lalu ketik atau salin kode di bawah ini lalu enter.
 ```
 sudo curl -sfLS https://raw.githubusercontent.com/gvoze32/unblockhostid/master/hosts >> /etc/hosts
 ```
+
+Alternative:
+```
+sudo wget https://raw.githubusercontent.com/gvoze32/unblockhostid/master/hosts -O /etc/hosts
+```
