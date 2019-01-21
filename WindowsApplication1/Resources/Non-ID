@@ -1,0 +1,28 @@
+attrib -r %WINDIR%\system32\drivers\etc\hosts
+@ECHO OFF
+IF "%OS%"=="Windows_NT" (
+SET HOSTFILE=%windir%\system32\drivers\etc\hosts
+) ELSE (
+SET HOSTFILE=%windir%\hosts
+)
+SET NEWLINE=^& echo.
+
+ECHO %NEWLINE%^ >>%WINDIR%\System32\drivers\etc\hosts
+
+FIND /C /I "3dns.adobe.com" %WINDIR%\system32\drivers\etc\hosts
+IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^151.101.40.193 imgur.com>>%WINDIR%\System32\drivers\etc\hosts
+ECHO 151.101.52.193 m.imgur.com>> %HOSTFILE%
+ECHO 151.101.52.193 api.imgur.com>> %HOSTFILE%
+ECHO 151.101.40.193 www.imgur.com>> %HOSTFILE%
+ECHO 151.101.52.193 store.imgur.com>> %HOSTFILE%
+ECHO 151.101.52.193 s.imgur.com>> %HOSTFILE%
+ECHO 151.101.52.193 p.imgur.com>> %HOSTFILE%
+ECHO 151.101.40.193 i.imgur.com>> %HOSTFILE%
+ECHO 151.101.52.193 z.imgur.com>> %HOSTFILE%
+ECHO 67.202.114.134 hijiribe.donmai.us>> %HOSTFILE%
+attrib +r %WINDIR%\system32\drivers\etc\hosts
+IPCONFIG -flushdns
+CLS
+ECHO Situs yang ditambahkan: Imgur.com, Hijribe.donmai.us (Silahkan request jika ada situs yang ingin ditambahkan)
+ECHO.
+PAUSE

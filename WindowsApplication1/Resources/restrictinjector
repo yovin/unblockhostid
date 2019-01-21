@@ -1,0 +1,10 @@
+@echo off
+
+SET NEWLINE=^& echo.
+
+ECHO %NEWLINE%^ >>%WINDIR%\System32\drivers\etc\hosts
+
+FIND /C /I "youtube.com" %WINDIR%\system32\drivers\etc\hosts
+IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^216.58.195.78 youtube.com www.youtube.com m.youtube.com>>%WINDIR%\System32\drivers\etc\hosts
+
+pause

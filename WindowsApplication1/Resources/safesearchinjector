@@ -1,0 +1,10 @@
+@echo off
+
+SET NEWLINE=^& echo.
+
+ECHO %NEWLINE%^ >>%WINDIR%\System32\drivers\etc\hosts
+
+FIND /C /I "google.com" %WINDIR%\system32\drivers\etc\hosts
+IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^172.217.10.78 google.com www.google.com>>%WINDIR%\System32\drivers\etc\hosts
+
+pause
