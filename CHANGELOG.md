@@ -1,4 +1,21 @@
 # Changelog
+**v4.8** Improved UI, bugs fix, & added more sites
+- Idolblog.tv
+- Javupdatedaily.blogspot.com
+- Lezhin.com
+- Nukemanga.com
+- Javwide.com
+- E-hentaidb.com
+- Enty.jp
+- Notsfw.to
+- Getchu.com
+- Hentai4manga.com
+
+```
+New UI! (Not all applicable)
+Fixed bug on Myfreecams & DMM
+```
+
 **v4.7** Improved app layout, bugs fix, delete & added more sites
 - Hentai-cosplay.com
 - Fenhentai.blogspot.com
