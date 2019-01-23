@@ -1,5 +1,5 @@
 # Changelog
-**v4.8** Improved UI, bugs fix, & added more sites
+**v4.8** Improved UI, added new feature, bugs fix, & added more sites
 - Idolblog.tv
 - Javupdatedaily.blogspot.com
 - Lezhin.com
@@ -14,6 +14,7 @@
 ```
 New UI! (Not all applied)
 Fixed bug on Myfreecams & DMM
+Added MAC-address changer
 ```
 
 **v4.7** Improved app layout, bugs fix, delete & added more sites
