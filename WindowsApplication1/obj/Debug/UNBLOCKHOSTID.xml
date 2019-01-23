@@ -22,6 +22,56 @@ UNBLOCKHOSTID
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.btnAboutUs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.btnAboutUs2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.btnClose">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.btnDessert">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.btnDessert1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.btnDrinks">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.btnFoods">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.btnMaximize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.btnMinimize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.btnOrders">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:UNBLOCKHOSTID.My.Resources.Resources.cat_pirate_icon_0">
 <summary>
   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
@@ -45,6 +95,16 @@ UNBLOCKHOSTID
 <member name="P:UNBLOCKHOSTID.My.Resources.Resources.hosts_original">
 <summary>
   Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.mac">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:UNBLOCKHOSTID.My.Resources.Resources.picCart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:UNBLOCKHOSTID.My.Resources.Resources.ubhnonid">

@@ -36,25 +36,28 @@ Partial Class SplashScreen1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 39.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(37, 50)
+        Me.Label1.Font = New System.Drawing.Font("Nirmala UI", 39.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.ForeColor = System.Drawing.Color.White
+        Me.Label1.Location = New System.Drawing.Point(46, 50)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(493, 61)
+        Me.Label1.Size = New System.Drawing.Size(474, 71)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "UNBLOCKHOSTID"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
+        Me.Label2.ForeColor = System.Drawing.Color.White
         Me.Label2.Location = New System.Drawing.Point(529, 309)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(34, 13)
         Me.Label2.TabIndex = 1
-        Me.Label2.Text = "- v4.7"
+        Me.Label2.Text = "- v4.8"
         '
         'Label3
         '
         Me.Label3.AutoSize = True
+        Me.Label3.ForeColor = System.Drawing.Color.White
         Me.Label3.Location = New System.Drawing.Point(385, 309)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(147, 13)
@@ -63,11 +66,16 @@ Partial Class SplashScreen1
         '
         'ProgressBar1
         '
+        Me.ProgressBar1.Cursor = System.Windows.Forms.Cursors.WaitCursor
+        Me.ProgressBar1.ForeColor = System.Drawing.Color.White
         Me.ProgressBar1.Location = New System.Drawing.Point(61, 173)
+        Me.ProgressBar1.MarqueeAnimationSpeed = 70
         Me.ProgressBar1.Name = "ProgressBar1"
         Me.ProgressBar1.Size = New System.Drawing.Size(445, 61)
         Me.ProgressBar1.Step = 1
+        Me.ProgressBar1.Style = System.Windows.Forms.ProgressBarStyle.Continuous
         Me.ProgressBar1.TabIndex = 1
+        Me.ProgressBar1.UseWaitCursor = True
         '
         'Timer1
         '
@@ -80,6 +88,7 @@ Partial Class SplashScreen1
         'Label5
         '
         Me.Label5.AutoSize = True
+        Me.Label5.ForeColor = System.Drawing.Color.White
         Me.Label5.Location = New System.Drawing.Point(10, 309)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(216, 13)
@@ -89,18 +98,19 @@ Partial Class SplashScreen1
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Font = New System.Drawing.Font("Cambria", 12.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(152, 133)
+        Me.Label4.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.ForeColor = System.Drawing.Color.White
+        Me.Label4.Location = New System.Drawing.Point(158, 133)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(255, 19)
+        Me.Label4.Size = New System.Drawing.Size(250, 19)
         Me.Label4.TabIndex = 5
-        Me.Label4.Text = "↪ Support Indonesian Net Neutrality"
+        Me.Label4.Text = "Support Indonesian Net Neutrality"
         '
         'SplashScreen1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.SystemColors.HighlightText
+        Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(52, Byte), Integer), CType(CType(152, Byte), Integer), CType(CType(219, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(567, 331)
         Me.ControlBox = False
         Me.Controls.Add(Me.Label4)
@@ -109,7 +119,7 @@ Partial Class SplashScreen1
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "SplashScreen1"

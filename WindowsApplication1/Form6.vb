@@ -63,8 +63,8 @@
     Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
         Process.Start("https://github.com/gvoze32/unblockhostid/raw/master/UNBLOCKHOSTID.exe")
     End Sub
-
-    Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
+    Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
+        IO.File.WriteAllBytes("C:\Windows\Temp\mac.exe", My.Resources.mac)
+        Process.Start("C:\Windows\Temp\mac.exe")
     End Sub
 End Class

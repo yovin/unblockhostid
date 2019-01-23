@@ -235,6 +235,7 @@
     <None Include="Resources\HostsInject" />
     <None Include="Resources\HostsInject.bat" />
     <None Include="Resources\HostsInject2" />
+    <None Include="Resources\mac" />
     <None Include="Resources\Non-ID" />
     <None Include="Resources\raw" />
     <None Include="Resources\restrictinjector" />
@@ -263,6 +264,17 @@
   <ItemGroup>
     <Content Include="cat_pirate_icon_0.ico" />
     <Content Include="icon.ico" />
+    <None Include="Resources\picCart.png" />
+    <None Include="Resources\btnOrders.png" />
+    <None Include="Resources\btnMinimize.png" />
+    <None Include="Resources\btnMaximize.png" />
+    <None Include="Resources\btnFoods.png" />
+    <None Include="Resources\btnDrinks.png" />
+    <None Include="Resources\btnDessert.png" />
+    <None Include="Resources\btnClose.png" />
+    <None Include="Resources\btnAboutUs2.png" />
+    <None Include="Resources\btnAboutUs.png" />
+    <None Include="Resources\btnDessert1.png" />
     <None Include="Resources\cat_pirate_icon_0.ico" />
     <None Include="Resources\dbu.mdb">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

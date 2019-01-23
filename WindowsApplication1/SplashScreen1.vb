@@ -1,6 +1,4 @@
 ﻿Public NotInheritable Class SplashScreen1
-
-
     Private Sub SplashScreen1_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         Timer1.Start()
         Timer2.Start()
