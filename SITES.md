@@ -344,3 +344,13 @@
 - Animemeeting.com
 - Manhwahentai.com
 - Moviedetector.me
+- Idolblog.tv
+- Javupdatedaily.blogspot.com
+- Lezhin.com
+- Nukemanga.com
+- Javwide.com
+- E-hentaidb.com
+- Enty.jp
+- Notsfw.to
+- Getchu.com
+- Hentai4manga.com
