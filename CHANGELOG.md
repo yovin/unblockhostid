@@ -12,7 +12,7 @@
 - Hentai4manga.com
 
 ```
-New UI! (Not all applicable)
+New UI! (Not all applied)
 Fixed bug on Myfreecams & DMM
 ```
 
