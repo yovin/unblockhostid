@@ -35,71 +35,113 @@ Coming soon..
 
 ```https://github.com/bol-van/zapret```
 
-### Пример установки на debian 7
+### Example installation on debian 7
 ----------------------------
-Debian 7 изначально содержит ядро 3.2. Оно не умеет делать DNAT на localhost.
-Конечно, можно не привязывать tpws к 127.0.0.1 и заменить в правилах iptables "DNAT 127.0.0.1" на "REDIRECT",
-но лучше установить более свежее ядро. Оно есть в стабильном репозитории :
- apt-get update
- apt-get install linux-image-3.16
-Установить пакеты :
- apt-get update
- apt-get install libnetfilter-queue-dev ipset curl
-Скопировать директорию "zapret" в /opt.
-Собрать nfqws :
- cd /opt/zapret/nfq
- make
-Собрать tpws :
- cd /opt/zapret/tpws
- make
-Скопировать /opt/zapret/init.d/debian7/zapret в /etc/init.d.
-В /etc/init.d/zapret выбрать пераметр "ISP". В зависимости от него будут применены нужные правила.
-Там же выбрать параметр SLAVE_ETH, соответствующий названию внутреннего сетевого интерфейса.
-Включить автостарт : chkconfig zapret on
-(опционально) Вручную первый раз получить новый список ip адресов : /opt/zapret/ipset/get_antizapret.sh
-Зашедулить задание обновления листа :
- crontab -e
- Создать строчку  "0 12 * * */2 /opt/zapret/ipset/get_antizapret.sh". Это значит в 12:00 каждые 2 дня обновлять список.
-Запустить службу : service zapret start
-Попробовать зайти куда-нибудь : http://ej.ru, http://kinozal.tv, http://grani.ru.
-Если не работает, то остановить службу zapret, добавить правило в iptables вручную,
-запустить nfqws в терминале под рутом с нужными параметрами.
-Пытаться подключаться к заблоченым сайтам, смотреть вывод программы.
-Если нет никакой реакции, значит скорее всего указан неверный номер очереди или ip назначения нет в ipset.
-Если реакция есть, но блокировка не обходится, значит параметры обхода подобраные неверно, или это средство
-не работает в вашем случае на вашем провайдере.
-Никто и не говорил, что это будет работать везде.
-Попробуйте снять дамп в wireshark или "tcpdump -vvv -X host <ip>", посмотрите действительно ли первый
-сегмент TCP уходит коротким и меняется ли регистр "Host:".
+Debian 7 originally contains the kernel 3.2. It cannot do DNAT on localhost.
 
-### ubuntu 12,14
+Of course, it is possible not to bind tpws to 127.0.0.1 and replace "DNAT 127.0.0.1" in the iptables rules with "REDIRECT", but it's better to install a fresher core. It is in a stable repository:
+
+ apt-get update
+ 
+ apt-get install linux-image-3.16
+ 
+Install packages :
+
+ apt-get update
+ 
+ apt-get install libnetfilter-queue-dev ipset curl
+ 
+Copy the "zapret" directory to /opt.
+
+Build nfqws :
+
+ cd /opt/zapret/nfq
+ 
+ make
+ 
+Collect tpws:
+
+ cd /opt/zapret/tpws
+ 
+ make
+ 
+Copy /opt/zapret/init.d/debian7/zapret to /etc/init.d.
+
+In /etc/init.d/zapret, select "ISP". Depending on it the necessary rules will be applied.
+
+In the same place, select the SLAVE_ETH parameter corresponding to the name of the internal network interface.
+
+Enable autostart : chkconfig zapret on
+
+(optional) Manually get a new list of ip addresses for the first time : /opt/zapret/ipset/get_antizapret.sh
+
+Click on the sheet update task :
+
+ crontab -e
+ 
+ Create a line "0 12 * * */2 /opt/zapret/ipset/get_antizapret.sh". This means to update the list at 12:00 every 2 days.
+ 
+Start the service : service zapret start
+
+Try going somewhere: http://ej.ru, http://kinozal.tv, http://grani.ru.
+
+If it does not work, stop the zapret service and add the rule to the iptables manually,
+
+start nfqws in the terminal under a turn with the required parameters.
+
+Try to connect to blocked sites, watch the program output.
+
+If there is no response, it means that the queue number is probably incorrect or the destination ip is not on the ipset.
+
+If there is a reaction, but blocking is not enough, it means that the bypass parameters are not correct, or it is a means doesn't work for your ISP in your case.
+
+Nobody said it would work everywhere.
+
+Try dumping in wireshark or "tcpdump -vvv -X host <ip>", see if you really have the first the TCP segment goes short and whether the "Host:" register changes.
+
+### ubuntu 12.14
 ------------
 
-Имеется готовый конфиг для upstart : zapret.conf. Его нужно скопировать в /etc/init и настроить по аналогии с debian.
-Запуск службы : "start zapret"
-Останов службы : "stop zapret"
-Просмотр сообщений : cat /var/log/upstart/zapret.log
-Ubuntu 12 так же, как и debian 7, оснащено ядром 3.2. См замечание в разделе "debian 7".
+There is a ready-made configuration for upstart : zapret.conf. It needs to be copied to /etc/init and configured in a similar way to debian.
+
+Starting the service : "start zapret"
+
+Stop service : "stop zapret"
+
+View messages : cat /var/log/upstart/zapret.log
+
+Ubuntu 12 is equipped with kernel 3.2, just like debian 7. See the note in the "debian 7" section.
 
 ### ubuntu 16,debian 8
 ------------------
 
-Процесс аналогичен debian 7, однако требуется зарегистрировать init скрипты в systemd после их копирования в /etc/init.d.
-По умолчанию lsb-core может быть не установлен.
+The process is similar to debian 7, but you need to register init scripts in systemd after copying them to /etc/init.d.
+
+By default, lsb-core may not be installed.
+
 apt-get update
+
 apt-get --no-install-recommends install lsb-core
 
 install : /usr/lib/lsb/install_initd zapret
+
 remove : /usr/lib/lsb/remove_initd zapret
+
 start : sytemctl start zapret
+
 stop : systemctl stop zapret
+
 status, output messages : systemctl status zapret
 
-### Другие linux системы
+### Other linux systems
 --------------------
 
-Существует несколько основных систем запуска служб : sysvinit, upstart, systemd.
-Настройка зависит от системы, используемой в вашем дистрибутиве.
-Типичная стратегия - найти скрипт или конфигурацию запуска других служб и написать свой по аналогии,
-при необходимости почитывая документацию по системе запуска.
-Нужные команды можно взять из предложенных скриптов.
+There are several basic service launchers: sysvinit, upstart, systemd.
+
+The configuration depends on the system used in your distribution.
+
+A typical strategy is to find a script or configuration to run other services and write your own by analogy,
+
+if necessary, read the documentation on the startup system.
+
+The necessary commands can be taken from the proposed scripts.
