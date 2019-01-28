@@ -354,3 +354,6 @@
 - Notsfw.to
 - Getchu.com
 - Hentai4manga.com
+- Bbcsreborn.com
+- Manyvids.com
+- Jav.guru
