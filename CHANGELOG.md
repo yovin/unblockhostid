@@ -1,4 +1,13 @@
 # Changelog
+**v4.8** Improved app UI, bugs fix, & added more sites
+- Bbcsreborn.com
+- Manyvids.com
+- Jav.guru
+
+```
+Fixed bug on Camwhores, Tushy, & Reddit
+```
+
 **v4.8** Improved UI, added new feature, bugs fix, & added more sites
 - Idolblog.tv
 - Javupdatedaily.blogspot.com
