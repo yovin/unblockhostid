@@ -1,5 +1,14 @@
 # Changelog
-**v4.8** Improved app UI, bugs fix, & added more sites
+**v5.0** Bugs fix, & added more sites
+- Jlist.com
+- Kisskiss.tv
+- Illusion.jp
+
+```
+Fixed bug on Nhentai, Javfor, Erome, & Sukebei.
+```
+
+**v4.9** Improved app UI, bugs fix, & added more sites
 - Bbcsreborn.com
 - Manyvids.com
 - Jav.guru
