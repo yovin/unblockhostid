@@ -357,3 +357,6 @@
 - Bbcsreborn.com
 - Manyvids.com
 - Jav.guru
+- Jlist.com
+- Kisskiss.tv
+- Illusion.jp
