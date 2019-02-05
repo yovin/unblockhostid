@@ -98,11 +98,12 @@
 192.240.120.10 hf2.hitomi.la
 
 # [NHENTAI.NET]
-141.101.120.54 nhentai.net
+141.101.120.55 nhentai.net
 141.101.120.55 nhentai.net
 141.101.120.55 static.nhentai.net
-185.2.83.13 t.nhentai.net
-185.2.83.13 i.nhentai.net
+185.165.243.201 t.nhentai.net
+185.165.243.201 i.nhentai.net
+185.165.243.201 webseed.nhentai.net
 
 # [GELBOORU.COM]
 5.178.68.100 gelbooru.com www.gelbooru.com
@@ -156,6 +157,7 @@
 
 # [JAVFOR.ME]
 104.25.218.15 javfor.me
+104.25.219.15 cdn.hdporn4.me
 
 # [JAVFIND.COM]
 104.24.125.127 javfind.com
@@ -1045,7 +1047,7 @@
 104.18.54.148 7mm.tv www.7mm.tv
 
 # [SUKEBEI.NYAA.SI]
-192.124.249.155 sukebei.nyaa.si
+185.221.200.12 sukebei.nyaa.si
 
 # [SEX.COM]
 206.125.164.82 sex.com www.sex.com hd.sex.com m.sex.com video.sex.com gay.sex.com upload.sex.com premium.sex.com city.sex.com
@@ -1408,6 +1410,10 @@
 
 # [EROME.COM]
 198.27.67.122 erome.com www.erome.com
+158.69.250.74 s2.erome.com
+158.69.250.91 s1.erome.com
+158.69.250.92 s4.erome.com
+158.69.251.197 s3.erome.com
 
 # [STUDIOFOW.COM]
 104.24.109.14 studiofow.com www.studiofow.com
@@ -1495,3 +1501,13 @@
 
 # [BBCSREBORN.COM]
 159.65.137.142 bbcsreborn.com www.bbcsreborn.com
+
+# [JLIST.COM]
+104.36.49.182 jlist.com www.jlist.com
+
+# [KISSKISS.TV]
+219.94.159.14 kisskiss.tv www.kisskiss.tv
+
+# [ILLUSION.JP]
+112.78.124.216 illusion.jp www.illusion.jp www3.illusion.jp www2.illusion.jp
+112.78.124.216 112.78.124.216 characolle.illusion.jp mail.illusion.jp blog.illusion.jp download3.illusion.jp
