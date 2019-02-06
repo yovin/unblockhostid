@@ -19,7 +19,7 @@ Harga: 10k via OVO (Reseller siap!)
 # Akun Netflix Premium UltraHD 
 
 Kenapa Premium?
-- Kualitas UHD dengan 4 layar
+- Kualitas UHD
 - Tonton film HD di laptop, tab, hp, smart tv, apple tv, xbox, playstation
 - Film dan serial tv tidak terbatas
 - Legal
