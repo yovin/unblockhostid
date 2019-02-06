@@ -1,4 +1,4 @@
-#### Untuk donasi bisa mengirimkan saldo OVO ke 081554707531. 
+Untuk donasi bisa mengirimkan saldo OVO ke 081554707531. 
 
 # UNBLOCKHOSTID
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts.
