@@ -85,7 +85,7 @@
 # [HITOMI.LA]
 185.145.131.184 hitomi.la www.hitomi.la
 23.237.36.202 a.hitomi.la
-192.240.120.10 aa.hitomi.la
+23.237.36.202 aa.hitomi.la
 192.240.120.10 atn.hitomi.la
 192.240.120.10 ba.hitomi.la
 192.240.120.10 btn.hitomi.la
@@ -93,8 +93,8 @@
 192.240.120.10 ltn.hitomi.la
 23.237.36.202 streaming.hitomi.la
 192.240.120.10 tn.hitomi.la
-192.240.120.10 g.hitomi.la
-192.240.120.10 i.hitomi.la
+23.237.36.202 g.hitomi.la
+23.237.36.202 i.hitomi.la
 192.240.120.10 hf2.hitomi.la
 
 # [NHENTAI.NET]
@@ -315,6 +315,7 @@
 202.6.246.32 dmm.co.jp actress.dmm.co.jp
 157.112.85.173 www.dmm.co.jp
 103.254.146.221 sample9.dmm.co.jp
+202.6.247.196 dlsoft.dmm.co.jp
 
 # [JAVLIBRARY.COM]
 104.18.62.228 javlibrary.com www.javlibrary.com
@@ -1511,3 +1512,9 @@
 # [ILLUSION.JP]
 112.78.124.216 illusion.jp www.illusion.jp www3.illusion.jp www2.illusion.jp
 112.78.124.216 112.78.124.216 characolle.illusion.jp mail.illusion.jp blog.illusion.jp download3.illusion.jp
+
+# [RULE34HENTAI.NET]
+104.25.69.32 rule34hentai.net www.rule34hentai.net
+
+# [BLEACHPIXXX.COM]
+208.167.227.185 bleachpixxx.com www.bleachpixxx.com
