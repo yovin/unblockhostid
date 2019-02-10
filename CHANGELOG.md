@@ -1,4 +1,12 @@
 # Changelog
+**v5.1** Bugs fix, Improved UI, added new features & more sites
+- Rule34hentai.net
+- Bleachpixxx.com
+
+```
+Fixed bug on DMM, & Hitomi.
+```
+
 **v5.0** Bugs fix, & added more sites
 - Jlist.com
 - Kisskiss.tv
