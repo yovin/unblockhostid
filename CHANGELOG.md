@@ -1,5 +1,5 @@
 # Changelog
-**v5.1** Bugs fix, Improved UI, added new features & more sites
+**v5.1** Bugs fix, Improved UI, added new features, donate version & more sites
 - Rule34hentai.net
 - Bleachpixxx.com
 
