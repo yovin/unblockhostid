@@ -12,7 +12,7 @@ Garansi 2 Minggu (Random Expired+Auto Renew)
 - Masa aktif selamanya asal password tidak diganti sama yang punya
 - Akun akan diganti jika gagal login
 
-Harga: 10k via OVO (Reseller siap!)
+Harga: 10k via OVO & Tsel
 
 *Akun yang kami berikan tidak selalu berasal dari negara Indonesia
 
@@ -24,7 +24,8 @@ Kenapa Premium?
 - Film dan serial tv tidak terbatas
 - Legal
 
-Harga: 20k via OVO
+Harga: 20k & 160k via OVO only
 
-Durasi 1 Bulan
+Durasi 1 Bulan & Lifetime
+- Garansi full untuk 1 bulan, khusus lifetime garansi 1 tahun
 - Akun akan diganti jika gagal login
