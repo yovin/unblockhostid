@@ -360,3 +360,5 @@
 - Jlist.com
 - Kisskiss.tv
 - Illusion.jp
+- Rule34hentai.net
+- Bleachpixxx.com
