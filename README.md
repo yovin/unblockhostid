@@ -1,4 +1,6 @@
-Untuk donasi bisa mengirimkan saldo OVO ke 081554707531. 
+<p align="center"> 
+<img src="https://i.ibb.co/LZHP3FQ/Capture.png">
+</p>
 
 # UNBLOCKHOSTID
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts.
@@ -13,6 +15,13 @@ Semua daftar situs yang support bisa kamu cek [disini](https://github.com/gvoze3
 
 # How to Install
 Untuk tahapan atau cara instalasi, silahkan menuju [INSTALL.md](https://github.com/gvoze32/unblockhostid/blob/master/INSTALL.md).
+
+# Donate
+<p align="center"> 
+<img src="https://i.ibb.co/Mkw7JnC/Capture1.png">
+</p>
+
+Fitur ini hanya bisa didapatkan dari donasi, silahkan kontak kami setelah mengirimkan donasi. Setelah itu kami akan memberikan id dan password untuk login.
 
 # Netflix
 Untuk cara menembus blokiran Netflix, silahkan menuju [NETFLIX.md](https://github.com/gvoze32/unblockhostid/blob/master/NETFLIX.md).
@@ -31,3 +40,6 @@ Sebelum menggunakan aplikasi ini, Anda wajib mematuhi peraturan yang kami buat, 
 
 # Database
 Database pemblokiran oleh Kominfo bisa didownload [disini](https://trustpositif.kominfo.go.id/downloaddb.php)
+
+# Donate
+Untuk donasi bisa mengirimkan saldo OVO ke 081554707531. 
