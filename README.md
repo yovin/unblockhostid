@@ -23,6 +23,8 @@ Untuk tahapan atau cara instalasi, silahkan menuju [INSTALL.md](https://github.c
 
 Fitur ini hanya bisa didapatkan dari donasi, silahkan kontak kami setelah mengirimkan donasi. Setelah itu kami akan memberikan id dan password untuk login.
 
+Untuk donasi bisa mengirimkan saldo OVO ke 081554707531. 
+
 # Netflix
 Untuk cara menembus blokiran Netflix, silahkan menuju [NETFLIX.md](https://github.com/gvoze32/unblockhostid/blob/master/NETFLIX.md).
 
@@ -40,6 +42,3 @@ Sebelum menggunakan aplikasi ini, Anda wajib mematuhi peraturan yang kami buat, 
 
 # Database
 Database pemblokiran oleh Kominfo bisa didownload [disini](https://trustpositif.kominfo.go.id/downloaddb.php)
-
-# Donate
-Untuk donasi bisa mengirimkan saldo OVO ke 081554707531. 
