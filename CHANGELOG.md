@@ -7,6 +7,7 @@
 
 ```
 Improved IP's for Nhentai & Javfor
+Fix app version bug
 ```
 
 **v5.1** Bugs fix, Improved UI, added new features, donate version & more sites
