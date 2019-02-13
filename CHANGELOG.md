@@ -1,4 +1,14 @@
 # Changelog
+**v5.1** Bugs fix, added new donate features & more sites
+- Pornfromcz.com
+- Vtrahevip.tv
+- Cg-hentai.com
+- Yify-movies.net
+
+```
+Improved IP's for Nhentai & Javfor
+```
+
 **v5.1** Bugs fix, Improved UI, added new features, donate version & more sites
 - Rule34hentai.net
 - Bleachpixxx.com
