@@ -1,4 +1,4 @@
-# This hosts file is a modified version from reputable sources
+# This hosts file is a modified version of data obtained from reputable sources
 # Project home page: https://unblockhostid.github.io
 # Hosts contributed by gvoze32
 # ====================================
@@ -98,12 +98,11 @@
 192.240.120.10 hf2.hitomi.la
 
 # [NHENTAI.NET]
-141.101.120.55 nhentai.net
-141.101.120.55 nhentai.net
-141.101.120.55 static.nhentai.net
-185.165.243.201 t.nhentai.net
+141.101.120.55 nhentai.net www.nhentai.net
+141.101.120.54 static.nhentai.net
+185.165.243.200 t.nhentai.net
 185.165.243.201 i.nhentai.net
-185.165.243.201 webseed.nhentai.net
+185.165.243.200 webseed.nhentai.net
 
 # [GELBOORU.COM]
 5.178.68.100 gelbooru.com www.gelbooru.com
@@ -156,7 +155,7 @@
 88.208.31.1 xhcdn.com video.xhcdn.com
 
 # [JAVFOR.ME]
-104.25.218.15 javfor.me
+104.25.219.15 javfor.me
 104.25.219.15 cdn.hdporn4.me
 
 # [JAVFIND.COM]
@@ -1518,3 +1517,15 @@
 
 # [BLEACHPIXXX.COM]
 208.167.227.185 bleachpixxx.com www.bleachpixxx.com
+
+# [YIFY-MOVIES.NET]
+104.31.112.146 yify-movies.net www.yify-movies.net
+
+# [CG-HENTAI.COM]
+193.124.177.216 cg-hentai.com www.cg-hentai.com
+
+# [VTRAHEVIP.TV]
+37.48.125.224 vtrahevip.tv www.vtrahevip.tv
+
+# [PORNFROMCZ.COM]
+46.28.106.34 pornfromcz.com www.pornfromcz.com
