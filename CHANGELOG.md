@@ -1,5 +1,5 @@
 # Changelog
-**v5.1** Bugs fix, added new donate features & more sites
+**v5.2** Bugs fix, added new donate features & more sites
 - Pornfromcz.com
 - Vtrahevip.tv
 - Cg-hentai.com
