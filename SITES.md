@@ -362,3 +362,7 @@
 - Illusion.jp
 - Rule34hentai.net
 - Bleachpixxx.com
+- Pornfromcz.com
+- Vtrahevip.tv
+- Cg-hentai.com
+- Yify-movies.net
