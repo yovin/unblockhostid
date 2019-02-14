@@ -1,7 +1,3 @@
-<p align="center"> 
-<img src="https://i.ibb.co/LZHP3FQ/Capture.png">
-</p>
-
 # UNBLOCKHOSTID
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts.
 
@@ -17,10 +13,6 @@ Semua daftar situs yang support bisa kamu cek [disini](https://github.com/gvoze3
 Untuk tahapan atau cara instalasi, silahkan menuju [INSTALL.md](https://github.com/gvoze32/unblockhostid/blob/master/INSTALL.md).
 
 # Donate
-<p align="center"> 
-<img src="https://i.ibb.co/Mkw7JnC/Capture1.png">
-</p>
-
 Fitur ini hanya bisa didapatkan dari donasi, silahkan kontak kami setelah mengirimkan donasi. Setelah itu kami akan memberikan id dan password untuk login.
 
 Untuk donasi bisa mengirimkan saldo OVO ke 081554707531. 
