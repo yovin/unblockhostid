@@ -17,6 +17,8 @@ Fitur ini hanya bisa didapatkan dari donasi, silahkan kontak kami setelah mengir
 
 Untuk donasi bisa mengirimkan saldo OVO ke 081554707531. 
 
+Note: Bagi yang gagal login, silahkan download [ini](https://download.cnet.com/2007-Office-System-Driver-Data-Connectivity-Components/3000-10254_4-75452798.html) karena database hanya support komponen lama.
+
 # Netflix
 Untuk cara menembus blokiran Netflix, silahkan menuju [NETFLIX.md](https://github.com/gvoze32/unblockhostid/blob/master/NETFLIX.md).
 
