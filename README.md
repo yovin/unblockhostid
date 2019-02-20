@@ -15,7 +15,7 @@ Untuk tahapan atau cara instalasi, silahkan menuju [INSTALL.md](https://github.c
 # Donate
 Fitur ini hanya bisa didapatkan dari donasi, silahkan kontak kami setelah mengirimkan donasi. Setelah itu kami akan memberikan id dan password untuk login.
 
-Untuk donasi bisa mengirimkan saldo OVO ke 081554707531. 
+Untuk donasi bisa kontak saya melalui email. 
 
 Note: Bagi yang gagal login, silahkan download [ini](https://download.cnet.com/2007-Office-System-Driver-Data-Connectivity-Components/3000-10254_4-75452798.html) karena database hanya support komponen lama.
 
