@@ -375,13 +375,15 @@
 23.40.252.158 assets.nflxext.com
 69.172.200.241 ir.netflix.com
 54.192.13.23 media.netflix.com
-54.191.94.148 www.netflix.com
+52.33.166.102 www.netflix.com
 34.211.85.116 help.netflix.com
 34.210.61.133 jobs.netflix.com
 23.40.252.158 codex.nflxext.com
-52.30.128.237 netflix.com
+54.213.232.186 netflix.com
 52.37.168.202 api-global.netflix.com
 52.34.255.169 ichnaea.netflix.com
+54.71.111.34 www.netflix.co.id
+52.37.219.6 netflix.co.id
 
 [KISSMANGA.COM]
 104.25.45.113 kissmanga.com www.kissmanga.com
@@ -830,6 +832,7 @@
 
 [AVGLE.COM]
 104.20.116.27 avgle.com www.avgle.com
+213.174.135.2 static-clst.avgle.com
 
 [TUOI69.COM]
 104.27.178.187 tuoi69.com www.tuoi69.com
@@ -1502,3 +1505,9 @@
 
 [PORNFROMCZ.COM]
 46.28.106.34 pornfromcz.com www.pornfromcz.com
+
+[NARUTOHENTAIDB.COM]
+104.27.173.233 narutohentaidb.com www.narutohentaidb.com
+
+[FUNNYJUNK.COM]
+149.56.126.49 funnyjunk.com funnyjunk.com
