@@ -366,3 +366,5 @@
 - Vtrahevip.tv
 - Cg-hentai.com
 - Yify-movies.net
+- Narutohentaidb.com
+- Funnyjunk.com
