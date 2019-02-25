@@ -1,4 +1,14 @@
 # Changelog
+**v5.3** Bugs fix on app and hosts file + added more sites
+- Narutohentaidb.com
+- Funnyjunk.com
+
+```
+Fixed bug on Netflix, & Avgle
+Fix app Turn off Google SafeSearch bug
+Outdated app hosts version fixed
+```
+
 **v5.2** Bugs fix, added new donate features & more sites
 - Pornfromcz.com
 - Vtrahevip.tv
