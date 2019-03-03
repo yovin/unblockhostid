@@ -367,3 +367,10 @@
 - Yify-movies.net
 - Narutohentaidb.com
 - Funnyjunk.com
+- Kisshentai.net
+- Javleak.com
+- Jav123.com
+- Nungav.com
+- Best-jav.com
+- Javsin.com
+- Jav68.me
