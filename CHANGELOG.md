@@ -1,4 +1,17 @@
 # Changelog
+**v5.4** Bugs fix on app + added more sites
+- Kisshentai.net
+- Javleak.com
+- Jav123.com
+- Nungav.com
+- Best-jav.com
+- Javsin.com
+- Jav68.me
+
+```
+Deleted duplicate line of Kissmanga
+```
+
 **v5.3** Bugs fix on app and hosts file + added more sites
 - Narutohentaidb.com
 - Funnyjunk.com
