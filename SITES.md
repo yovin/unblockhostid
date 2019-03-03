@@ -97,7 +97,6 @@
 - Sexix.net
 - Chaturbate.com
 - Digitalplayground.com
-- Kissmanga.com
 - Javhd3x.com
 - Javhd4k.com
 - Pornhd3x.to
