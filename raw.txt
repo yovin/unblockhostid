@@ -615,9 +615,6 @@
 216.18.168.62 digitalplayground.com
 216.18.168.62 www.digitalplayground.com
 
-[KISSMANGA.COM]
-104.25.46.113 kissmanga.com www.kissmanga.com
-
 [JAVHD3X.COM]
 104.28.31.244 javhd3x.com www.javhd3x.com
 
@@ -1511,3 +1508,24 @@
 
 [FUNNYJUNK.COM]
 149.56.126.49 funnyjunk.com funnyjunk.com
+
+[KISSHENTAI.NET]
+104.18.34.148 kisshentai.net www.kisshentai.net
+
+[JAVLEAK.COM]
+104.27.135.221 javleak.com www.javleak.com
+
+[JAV68.ME]
+103.224.182.238 jav68.me www.jav68.me
+
+[JAVSIN.COM]
+104.31.64.215 javsin.com www.javsin.com
+
+[BEST-JAV.COM]
+209.99.64.43 best-jav.com www.best-jav.com
+
+[NUNGAV.COM]
+67.227.226.240 nungav.com www.nungav.com
+
+[JAV123.COM]
+8.8.8.8 jav123.com www.jav123.com
