@@ -374,3 +374,8 @@
 - Best-jav.com
 - Javsin.com
 - Jav68.me
+- Sendvid.com
+- Manhwahand.com
+- Doujins.com
+- Nudegirls4u.com
+- Sbobet.com

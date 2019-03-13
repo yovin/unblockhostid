@@ -1,4 +1,19 @@
 # Changelog
+**v5.5** Lot of improvements
+- Sendvid.com
+- Manhwahand.com
+- Doujins.com
+- Nudegirls4u.com
+- Sbobet.com
+
+```
+Fixed bug on Lezhin, Gelbooru, Hanime, & Funnyjunk
+Deleted Best-jav
+App mechanizm improved
+Fixed add hosts feature
+New features, fixed bug on app
+```
+
 **v5.4** Bugs fix on app + added more sites
 - Kisshentai.net
 - Javleak.com
