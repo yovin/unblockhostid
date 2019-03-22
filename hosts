@@ -1,4 +1,4 @@
-# This hosts file is a modified version of data obtained from reputable sources
+# This hosts file is modified for supporting net neutrality
 # Project home page: https://unblockhostid.github.io
 # Hosts contributed by gvoze32
 # ====================================
@@ -167,12 +167,12 @@
 89.248.169.70 akiba-online.com www.akiba-online.com
 
 # [R18.COM]
-202.6.246.238 www.r18.com
-202.6.246.238 r18.com
-103.254.145.213 pics.r18.com
-52.222.163.39 awspv3001.r18.com
-202.6.246.248 affiliate.r18.com
-66.6.33.22 blog.r18.com
+202.6.246.238 r18.com www.r18.com
+43.255.42.241 pics.r18.com
+54.239.132.76 awscc3001.r18.com
+54.239.132.55 awspv3001.r18.com
+157.112.92.33 affiliate.r18.com
+66.6.32.22 blog.r18.com
 
 # [DONMAI.US]
 104.20.134.45 donmai.us www.donmai.us danbooru.donmai.us
@@ -1469,8 +1469,10 @@
 216.58.194.193 javupdatedaily.blogspot.com www.javupdatedaily.blogspot.com
 
 # [LEZHIN.COM]
-216.239.38.21 lezhin.com www.lezhin.com
+216.239.32.21 lezhin.com www.lezhin.com
 96.16.173.63 cdn.lezhin.com
+192.0.78.13 social.lezhin.com
+52.26.69.40 polyfill-io.lezhin.com
 
 # [NUKEMANGA.COM]
 104.31.79.222 nukemanga.com www.nukemanga.com
@@ -1504,6 +1506,8 @@
 
 # [JLIST.COM]
 104.36.49.182 jlist.com www.jlist.com
+142.93.82.40 blog.jlist.com
+67.199.248.13 jli.st www.jli.st
 
 # [KISSKISS.TV]
 219.94.159.14 kisskiss.tv www.kisskiss.tv
@@ -1556,6 +1560,9 @@
 
 # [SENDVID.COM]
 46.166.142.243 sendvid.com www.sendvid.com
+208.99.84.104 thumbs2.sendvid.com
+208.99.84.110 videos2.sendvid.com
+54.183.103.197 support.sendvid.com
 
 # [DOUJINS.COM]
 185.72.157.185 doujins.com www.doujins.com
@@ -1568,3 +1575,36 @@
 
 # [MANHWAHAND.COM]
 104.24.115.149 manhwahand.com www.manhwahand.com
+
+# [YOMANGA.CO]
+173.82.115.82 yomanga.co www.yomanga.co
+
+# [PORNOHUB.SU]
+104.31.75.93 pornohub.su www.pornohub.su
+
+# [DYNASTY-SCANS.COM]
+188.165.37.208 dynasty-scans.com www.dynasty-scans.com
+
+# [2D-MARKET.COM]
+185.58.74.202 2d-market.com www.2d-market.com
+185.58.74.132 blog.2d-market.com
+
+# [THEYNC.COM]
+104.20.121.36 theync.com www.theync.com cdn2.theync.com thumbs.theync.com
+
+# [MELONBOOKS.CO.JP]
+133.242.5.100 melonbooks.co.jp www.melonbooks.co.jp main.melonbooks.co.jp shop.melonbooks.co.jp
+210.140.113.94 img.melonbooks.com
+182.22.30.252 cdn.melonbooks.com
+
+# [JAVX.CC]
+104.27.189.122 javx.cc www.javx.cc
+
+# [MG-RENDERS.NET]
+75.126.100.29 mg-renders.net www.mg-renders.net
+172.217.0.51 hentai.mg-renders.net tops.mg-renders.net h-packs.mg-renders.net packs.mg-renders.net
+75.126.100.25 tumblr.mg-renders.net
+
+# [HEAVY-R.COM]
+95.211.187.146 heavy-r.com www.heavy-r.com a.heavy-r.com embed.heavy-r.com
+37.48.81.1 static.heavy-r.com

@@ -379,3 +379,12 @@
 - Doujins.com
 - Nudegirls4u.com
 - Sbobet.com
+- Yomanga.co
+- Pornohub.su
+- Dynasty-scans.com
+- 2d-market.com
+- Theync.com
+- Melonbooks.co.jp
+- Javx.cc
+- Mg-renders.net
+- Heavy-r.com

@@ -1,4 +1,20 @@
 # Changelog
+**v5.6** Added more sites & fixed bugs
+- Yomanga.co
+- Pornohub.su
+- Dynasty-scans.com
+- 2d-market.com
+- Theync.com
+- Melonbooks.co.jp
+- Javx.cc
+- Mg-renders.net
+- Heavy-r.com
+
+```
+Fixed bug on R18, Jlist, Sendvid, 
+Testing Lezhin
+```
+
 **v5.5** Lot of improvements
 - Sendvid.com
 - Manhwahand.com
