@@ -374,11 +374,11 @@
 23.40.252.158 assets.nflxext.com
 69.172.200.241 ir.netflix.com
 54.192.13.23 media.netflix.com
-52.33.166.102 www.netflix.com
+54.191.94.148 www.netflix.com
 34.211.85.116 help.netflix.com
 34.210.61.133 jobs.netflix.com
 23.40.252.158 codex.nflxext.com
-54.213.232.186 netflix.com
+52.30.128.237 netflix.com
 52.37.168.202 api-global.netflix.com
 52.34.255.169 ichnaea.netflix.com
 54.71.111.34 www.netflix.co.id
@@ -847,6 +847,10 @@
 
 [JAVHD.COM]
 199.80.55.247 javhd.com www.javhd.com
+199.80.55.245 secure.javhd.com
+199.167.65.10 static.javhd.com
+199.80.55.243 enter.javhd.com
+104.37.176.1 cdn.javhd.com cdn2.javhd.com share.javhd.com
 
 [JAVBUS.COM]
 104.24.21.64 javbus.com www.javbus.com
@@ -925,6 +929,7 @@
 
 [LOVERSLAB.COM]
 104.25.91.15 loverslab.com www.loverslab.com
+104.25.91.15 static.loverslab.com
 
 [EROGEDOWNLOAD.COM]
 104.28.15.98 erogedownload.com www.erogedownload.com
@@ -1047,6 +1052,8 @@
 
 [PORNHUBPREMIUM.COM]
 216.18.168.19 pornhubpremium.com www.pornhubpremium.com
+66.254.114.44 tour.pornhubpremium.com
+216.18.168.73 support.pornhubpremium.com
 
 [HENTAIHEROES.COM]
 94.75.250.120 hentaiheroes.com www.hentaiheroes.com
@@ -1124,6 +1131,9 @@
 
 [MOTHERLESS.COM]
 46.166.188.38 motherless.com www.motherless.com
+46.166.188.37 motherlessmedia.com www.motherlessmedia.com
+208.99.84.104 cdn5-images.motherlessmedia.com
+208.99.84.100 cdn5-thumbs.motherlessmedia.com
 
 [CAMWHORESHD.COM]
 104.28.11.227 camwhoreshd.com www.camwhoreshd.com
@@ -1574,10 +1584,57 @@
 104.27.189.122 javx.cc www.javx.cc
 
 [MG-RENDERS.NET]
-75.126.100.29 mg-renders.net www.mg-renders.net
+75.126.100.29 mg-renders.net
+172.217.6.51 www.mg-renders.net
 172.217.0.51 hentai.mg-renders.net tops.mg-renders.net h-packs.mg-renders.net packs.mg-renders.net
 75.126.100.25 tumblr.mg-renders.net
 
 [HEAVY-R.COM]
 95.211.187.146 heavy-r.com www.heavy-r.com a.heavy-r.com embed.heavy-r.com
 37.48.81.1 static.heavy-r.com
+
+[JAPANESEFUCKERS.COM]
+198.37.114.196 japanesefuckers.com www.japanesefuckers.com
+
+[JAVMODEL.COM]
+104.31.64.106 javmodel.com www.javmodel.com
+
+[SXSHENTAI.COM]
+5.44.219.114 sxshentai.com www.sxshentai.com
+
+[KISSASIAN.SH]
+104.25.204.29 kissasian.sh www.kissasian.sh
+
+[ACTIONJAV.COM]
+209.133.197.139 actionjav.com www.actionjav.com
+
+[MANGAREADER.NET]
+185.85.189.58 mangareader.net www.mangareader.net
+104.20.140.9 s1.mangareader.net s2.mangareader.net s3.mangareader.net s4.mangareader.net s5.mangareader.net
+
+[SEXASIAN18.COM]
+107.161.23.204 sexasian18.com www.sexasian18.com
+
+[ASIAMOVIEPASS.COM]
+216.201.82.52 asiamoviepass.com www.asiamoviepass.com images.asiamoviepass.com
+216.201.82.48 webmasters.asiamoviepass.com join.asiamoviepass.com
+66.115.183.71 members.asiamoviepass.com
+
+[PLAYBOYPLUS.COM]
+66.254.119.42 playboyplus.com www.playboyplus.com
+
+[KOREA1818.COM]
+50.23.77.111 korea1818.com www.korea1818.com
+
+[ALLJAPANESEPASS.COM]
+199.80.54.18 alljapanesepass.com www.alljapanesepass.com
+104.37.176.1 thumbs-wbz-cdn.alljapanesepass.com
+74.117.179.149 fhg.alljapanesepass.com
+74.117.179.56 join.alljapanesepass.com
+199.80.54.18 m.alljapanesepass.com
+
+[OPENLOADPRO.COM]
+104.31.88.181 openloadpro.com www.openloadpro.com
+
+[ASIANSCANDAL.NET]
+104.28.0.90 asianscandal.net www.asianscandal.net

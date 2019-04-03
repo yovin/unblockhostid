@@ -1,4 +1,24 @@
 # Changelog
+**v5.7** Added more sites & fixed bugs
+- Japanesefuckers.com
+- Javmodel.com
+- Sxshentai.com
+- Kissasian.sh
+- Actionjav.com
+- Mangareader.net
+- Sexasian18.com
+- Asiamoviepass.com
+- Playboyplus.com
+- Korea1818.com
+- Alljapanesepass.com
+- Openloadpro.com
+- Asianscandal.net
+
+```
+Fixed bug on Mg-renders, Motherless, Loverslab, Javhd, Pornhubpremium, & Netflix.
+Lezhin bug maybe will be fixed on the next update
+```
+
 **v5.6** Added more sites & fixed bugs
 - Yomanga.co
 - Pornohub.su

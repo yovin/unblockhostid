@@ -388,3 +388,16 @@
 - Javx.cc
 - Mg-renders.net
 - Heavy-r.com
+- Japanesefuckers.com
+- Javmodel.com
+- Sxshentai.com
+- Kissasian.sh
+- Actionjav.com
+- Mangareader.net
+- Sexasian18.com
+- Asiamoviepass.com
+- Playboyplus.com
+- Korea1818.com
+- Alljapanesepass.com
+- Openloadpro.com
+- Asianscandal.net
