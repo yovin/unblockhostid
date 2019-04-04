@@ -1,3 +1,14 @@
+About
+This hosts file is modified to support Indonesian Net. Neutrality
+Project home page: https://unblockhostid.github.io
+Hosts listed by gvoze32
+
+Rules
+UNBLOCKHOSTID adalah sebuah aplikasi yang digunakan untuk membuka website yang telah diblokir dengan tujuan mendukung kebebasan berinternet di Indonesia. Tetapi ada persyaratan yang harus dipenuhi sebelum menggunakan aplikasi ini.
+Anda harus wajib berusia minimal 18 tahun keatas untuk bisa menggunakan aplikasi ini. 
+Kami tidak bertanggung jawab apabila fitur ini disalahgunakan. Apabila Anda menyalahgunakan fitur ini, maka Anda siap untuk menanggung segala konsekuensi yang ditimbulkan dari penggunaan aplikasi ini.
+Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuhan, termasuk dosa, kami serahkan sepenuhnya kepada Anda. Kami tidak bertanggung jawab. Menggunakan aplikasi ini berarti sepenuhnya menanggung semua akibat yang ditimbulkan.
+
 [OPENLOAD.CO]
 104.16.166.50 openload.co www.openload.co
 104.16.165.50 t1.openload.co
@@ -79,6 +90,7 @@
 
 [GELBOORU.COM]
 67.202.114.141 gelbooru.com www.gelbooru.com
+212.8.240.5 img2.gelbooru.com simg3.gelbooru.com
 
 [OMEGLE.COM]
 104.23.128.76 omegle.com
@@ -1452,10 +1464,14 @@
 216.58.194.193 javupdatedaily.blogspot.com www.javupdatedaily.blogspot.com
 
 [LEZHIN.COM]
-216.239.32.21 lezhin.com www.lezhin.com
+216.239.36.21 lezhin.com
+52.41.218.23 www.lezhin.com
 96.16.173.63 cdn.lezhin.com
 192.0.78.13 social.lezhin.com
 52.26.69.40 polyfill-io.lezhin.com
+52.26.69.40 api.lezhin.com
+35.186.216.127 dondog.lezhin.com
+35.186.214.176 log-scv.lezhin.com
 
 [NUKEMANGA.COM]
 104.31.79.222 nukemanga.com www.nukemanga.com
@@ -1597,23 +1613,26 @@
 198.37.114.196 japanesefuckers.com www.japanesefuckers.com
 
 [JAVMODEL.COM]
-104.31.64.106 javmodel.com www.javmodel.com
+104.31.64.106 javmodel.com www.javmodel.com chinese.javmodel.com
+64.188.63.214 member.javmodel.com
 
 [SXSHENTAI.COM]
 5.44.219.114 sxshentai.com www.sxshentai.com
 
 [KISSASIAN.SH]
-104.25.204.29 kissasian.sh www.kissasian.sh
+104.25.205.29 kissasian.sh www.kissasian.sh
 
 [ACTIONJAV.COM]
 209.133.197.139 actionjav.com www.actionjav.com
+209.133.197.44 register.actionjav.com
 
 [MANGAREADER.NET]
 185.85.189.58 mangareader.net www.mangareader.net
 104.20.140.9 s1.mangareader.net s2.mangareader.net s3.mangareader.net s4.mangareader.net s5.mangareader.net
 
 [SEXASIAN18.COM]
-107.161.23.204 sexasian18.com www.sexasian18.com
+209.141.38.71 sexasian18.com
+204.188.203.154 www.sexasian18.com
 
 [ASIAMOVIEPASS.COM]
 216.201.82.52 asiamoviepass.com www.asiamoviepass.com images.asiamoviepass.com
@@ -1638,3 +1657,6 @@
 
 [ASIANSCANDAL.NET]
 104.28.0.90 asianscandal.net www.asianscandal.net
+
+[JAVHD.PICS]
+104.18.37.178 javhd.pics www.javhd.pics

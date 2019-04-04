@@ -1,4 +1,12 @@
 # Changelog
+**v5.8** New sites added, bugs fixed, & new feature added
+- Javhd.pics
+
+```
+Fixed bug on Lezhin, Sexasian18, Javmodel, Actionjav, & Gelbooru
+Added Facebook Access Token feature on donate version
+```
+
 **v5.7** Added more sites & fixed bugs
 - Japanesefuckers.com
 - Javmodel.com
