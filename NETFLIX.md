@@ -22,7 +22,7 @@ Kamu bisa download GoodbyeDPI disini.
 
 [Original](https://github.com/ValdikSS/GoodbyeDPI)
 
-[Modified](https://www.dropbox.com/s/uxqowf8dpkupkqn/GoodbyeDPI_Modified_By_Punkofthedeath.rar?dl=0) (Thanks to punkofthedeath - Tinggal extract lalu run install_service.cmd as Administrator.)
+[Modified](https://files.catbox.moe/hlaa56.rar) (Thanks to punkofthedeath - Tinggal extract lalu run install_service.cmd as Administrator.)
 
 Saya sarankan untuk menggunakan versi modified karena menginstallnya hanya sekali klik dan untuk menghapusnya juga mudah. Tetapi jika kalian mengerti cara menggunakan aplikasi tersebut silahkan pakai yang original.
 
