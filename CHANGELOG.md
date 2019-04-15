@@ -1,4 +1,18 @@
 # Changelog
+**v5.9** New sites added, & bugs fixed
+- Javfast.tv
+- Embed.media
+- Hentai-image.com
+- Seaporn.net
+- Dougasukie.jp
+- Semprotku.com
+- R34anim.com
+
+```
+Fixed bug on Netflix, Mangareader, Javwide, Rule34, Motherless, Sexasian18, Actionjav
+Deleted Seaporn
+```
+
 **v5.8** New sites added, bugs fixed, & new feature added
 - Javhd.pics
 

@@ -249,7 +249,6 @@
 - Gonewild.to
 - Yourporn.sexy
 - Porncache.net
-- Seaporn.com
 - Xbreezy.co
 - Olymptrade.com
 - Littlewhitebutterflies.co
@@ -402,3 +401,10 @@
 - Openloadpro.com
 - Asianscandal.net
 - Javhd.pics
+- Javfast.tv
+- Embed.media
+- Hentai-image.com
+- Seaporn.net
+- Dougasukie.jp
+- Semprotku.com
+- R34anim.com

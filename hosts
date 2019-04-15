@@ -2,17 +2,14 @@
 # This hosts file is modified to support Indonesian Net. Neutrality
 # Project home page: https://unblockhostid.github.io
 # Hosts listed by gvoze32
-# *End About
 #
 # *Start Rules
 # UNBLOCKHOSTID adalah sebuah aplikasi yang digunakan untuk membuka website yang telah diblokir dengan tujuan mendukung kebebasan berinternet di Indonesia. Tetapi ada persyaratan yang harus dipenuhi sebelum menggunakan aplikasi ini.
 # Anda harus wajib berusia minimal 18 tahun keatas untuk bisa menggunakan aplikasi ini. 
 # Kami tidak bertanggung jawab apabila fitur ini disalahgunakan. Apabila Anda menyalahgunakan fitur ini, maka Anda siap untuk menanggung segala konsekuensi yang ditimbulkan dari penggunaan aplikasi ini.
 # Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuhan, termasuk dosa, kami serahkan sepenuhnya kepada Anda. Kami tidak bertanggung jawab. Menggunakan aplikasi ini berarti sepenuhnya menanggung semua akibat yang ditimbulkan.
-# *End Rules
 #
-# *Start UNBLOCKHOSTID
-# ====================================\
+# *Start Sample
 # Copyright (c) 1993-2009 Microsoft Corp.
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
@@ -33,6 +30,9 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
+
+# *Start UNBLOCKHOSTID
+# ====================================\
 
 # [OPENLOAD.CO]
 104.16.166.50 openload.co www.openload.co
@@ -411,15 +411,15 @@
 23.40.252.158 assets.nflxext.com
 69.172.200.241 ir.netflix.com
 54.192.13.23 media.netflix.com
-54.191.94.148 www.netflix.com
+52.42.228.237 www.netflix.com
 34.211.85.116 help.netflix.com
 34.210.61.133 jobs.netflix.com
 23.40.252.158 codex.nflxext.com
-52.30.128.237 netflix.com
+52.42.228.237 netflix.com
 52.37.168.202 api-global.netflix.com
 52.34.255.169 ichnaea.netflix.com
-54.71.111.34 www.netflix.co.id
-52.37.219.6 netflix.co.id
+52.42.228.237 www.netflix.co.id
+52.42.228.237 netflix.co.id
 
 # [KISSMANGA.COM]
 104.25.45.113 kissmanga.com www.kissmanga.com
@@ -1100,8 +1100,9 @@
 104.18.33.27 javhiv.net www.javhiv.net
 
 # [RULE34.XXX]
-178.21.23.134 rule34.xxx www.rule34.xxx
-89.233.106.186 img.rule34.xxx
+104.25.223.113 rule34.xxx www.rule34.xxx
+104.25.223.113 img.rule34.xxx
+185.180.221.231 webmc.rule34.xxx
 
 # [HLEECHER.TK]
 104.236.82.224 hleecher.tk www.hleecher.tk
@@ -1139,8 +1140,8 @@
 # [PORNCACHE.NET]
 104.28.27.202 xhamster.porncache.net xvideos.porncache.net porncache.net
 
-# [SEAPORN.COM]
-68.178.213.61 seaporn.com www.seaporn.com
+# [SEAPORN.NET]
+104.27.159.126 seaporn.net www.seaporn.net
 
 # [XBREEZY.CO]
 104.28.17.233 xbreezy.co www.xbreezy.co
@@ -1168,9 +1169,11 @@
 
 # [MOTHERLESS.COM]
 46.166.188.38 motherless.com www.motherless.com
-46.166.188.37 motherlessmedia.com www.motherlessmedia.com
+46.166.188.35 motherlessmedia.com www.motherlessmedia.com
 208.99.84.104 cdn5-images.motherlessmedia.com
 208.99.84.100 cdn5-thumbs.motherlessmedia.com
+208.99.84.108 cdn5-videos.motherlessmedia.com
+208.99.84.100 cdn5-avatars.motherlessmedia.com
 
 # [CAMWHORESHD.COM]
 104.28.11.227 camwhoreshd.com www.camwhoreshd.com
@@ -1502,7 +1505,7 @@
 104.31.79.222 nukemanga.com www.nukemanga.com
 
 # [JAVWIDE.COM]
-104.27.144.187 javwide.com www.javwide.com
+104.27.144.187 javwide.com www.javwide.com www5.javwide.com
 
 # [E-HENTAIDB.COM]
 80.209.252.66 e-hentaidb.com www.e-hentaidb.com
@@ -1650,14 +1653,16 @@
 # [ACTIONJAV.COM]
 209.133.197.139 actionjav.com www.actionjav.com
 209.133.197.44 register.actionjav.com
+209.133.197.139 members.actionjav.com
 
 # [MANGAREADER.NET]
 185.85.189.58 mangareader.net www.mangareader.net
-104.20.140.9 s1.mangareader.net s2.mangareader.net s3.mangareader.net s4.mangareader.net s5.mangareader.net
+104.20.140.9 s1.mangareader.net s2.mangareader.net s3.mangareader.net s4.mangareader.net s5.mangareader.net i10.mangareader.net i9.mangareader.net
+104.20.140.9 i1.mangareader.net i2.mangareader.net i3.mangareader.net i4.mangareader.net i5.mangareader.net i6.mangareader.net i7.mangareader.net i8.mangareader.net
 
 # [SEXASIAN18.COM]
-209.141.38.71 sexasian18.com
-204.188.203.154 www.sexasian18.com
+107.161.23.204 sexasian18.com
+192.161.187.200 www.sexasian18.com
 
 # [ASIAMOVIEPASS.COM]
 216.201.82.52 asiamoviepass.com www.asiamoviepass.com images.asiamoviepass.com
@@ -1690,3 +1695,21 @@
 151.101.192.64 fetlife.com
 151.101.4.64 ass0.fetlife.com ass1.fetlife.com ass2.fetlife.com ass3.fetlife.com pic0.fetlife.com pic1.fetlife.com pic2.fetlife.com
 35.201.117.79 ws.fetlife.com
+
+# [JAVFAST.TV]
+104.27.186.129 javfast.tv www.javfast.tv
+
+# [EMBED.MEDIA]
+104.18.42.220 embed.media www.embed.media
+
+# [HENTAI-IMAGE.COM]
+104.31.71.152 hentai-image.com www.hentai-image.com
+
+# [DOUGASUKIE.JP]
+104.31.64.232 dougasukie.jp www.dougasukie.jp
+
+# [SEMPROTKU.COM]
+104.24.98.53 semprotku.com www.semprotku.com
+
+# [R34ANIM.COM]
+67.205.57.218 r34anim.com www.r34anim.com
