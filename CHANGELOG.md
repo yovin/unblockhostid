@@ -1,4 +1,37 @@
 # Changelog
+**v6.0** New sites added, bugs fixed, & app improved
+- Kaotic.com
+- Nozomi.la
+- Pornhd.to
+- Xbooru.com
+- Cartoonpornvideos.com
+- Limetorrents.cc
+- Sxyprn.com
+- Bakabt.me
+- Betradar.com
+- Bet365.com
+- Hentainexus.com
+- Javcl.com
+- Youav.com
+- Xkorean.biz
+- Hentaihaven.me
+- Hentai2w.com
+- Kisscosplay.moe
+- Tabootube.xxx
+- Hentaigasm.com
+
+```
+Fixed bug on Semprotku, Sexasian18, Kissasian, Hanime, Hentai-image, Pornpics, Netflix, Javqd, Iwara
+Yespornplease, Hentai-foundry, Youjizz, Doujins, Rule34, Chaturbate, Reddit, 4chan, Loverslab, Melonbooks, 
+
+
+Changed F95zone.com to F95zone.to
+```
+
+```
+Note: This is an quick update guys, maybe there's still so many bugs. If you found it, please open new issue so i can fix it :)
+```
+
 **v5.9** New sites added, & bugs fixed
 - Javfast.tv
 - Embed.media
