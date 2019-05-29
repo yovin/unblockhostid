@@ -21,16 +21,14 @@
 - Hentaigasm.com
 
 ```
-Fixed bug on Semprotku, Sexasian18, Kissasian, Hanime, Hentai-image, Pornpics, Netflix, Javqd, Iwara
-Yespornplease, Hentai-foundry, Youjizz, Doujins, Rule34, Chaturbate, Reddit, 4chan, Loverslab, Melonbooks, 
+Fixed bug on Semprotku, Sexasian18, Kissasian, Hanime, Hentai-image, Pornpics, Netflix, Javqd, Iwara, Nijie 
+Yespornplease, Hentai-foundry, Youjizz, Doujins, Rule34, Chaturbate, Reddit, 4chan, Loverslab, Melonbooks, Gojav
 
 
 Changed F95zone.com to F95zone.to
 ```
 
-```
-Note: This is an quick update guys, maybe there's still so many bugs. If you found it, please open new issue so i can fix it :)
-```
+_Note: This is an quick update guys, maybe there's still so many bugs. If you found it, please open new issue so i can fix it :)_
 
 **v5.9** New sites added, & bugs fixed
 - Javfast.tv
