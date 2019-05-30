@@ -1,8 +1,9 @@
 # Changelog
 **v6.1** Bugs fixed, & app improved
-Note: GoodbyeDPI blacklist file remodified
 
 ```
+Note: GoodbyeDPI blacklist file remodified
+
 Fixed bug on Netflix & Newgrounds
 ```
 
