@@ -1,4 +1,11 @@
 # Changelog
+**v6.1** Bugs fixed, & app improved
+Note: GoodbyeDPI blacklist file remodified
+
+```
+Fixed bug on Netflix & Newgrounds
+```
+
 **v6.0** New sites added, bugs fixed, & app improved
 - Kaotic.com
 - Nozomi.la

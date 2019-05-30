@@ -319,7 +319,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 163.172.85.31 porneq.com
 
 [NEWGROUNDS.COM]
-54.39.161.27 newgrounds.com www.newgrounds.com
+142.44.137.231 www.newgrounds.com newgrounds.com
 
 [MOFOS.COM]
 216.18.168.90 members2.mofos.com
@@ -383,23 +383,34 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 [NETFLIX.COM]
-23.40.252.158 assets.nflxext.com
+184.26.82.98 assets.nflxext.com
 69.172.200.241 ir.netflix.com
 54.192.13.23 media.netflix.com
-54.201.91.38 www.netflix.com
 34.211.85.116 help.netflix.com
 34.210.61.133 jobs.netflix.com
-23.40.252.158 codex.nflxext.com
-54.201.91.38 netflix.com
+184.26.82.98 codex.nflxext.com
+207.45.72.215 nflxext.com nflximg.com
 52.37.168.202 api-global.netflix.com
 52.34.255.169 ichnaea.netflix.com
-54.201.91.38 www.netflix.co.id
-54.201.91.38 netflix.co.id
 # Unique Netflix Ip's
-52.11.24.193 www.netflix.com
-52.11.24.193 netflix.com
-52.11.24.193 www.netflix.co.id
-52.11.24.193 netflix.co.id
+35.166.68.183 netflix.com www.netflix.com
+54.208.233.73 netflix.com www.netflix.com
+52.204.167.205 netflix.com www.netflix.com
+35.169.83.64 netflix.com www.netflix.com
+52.71.147.164 netflix.com www.netflix.com
+34.234.59.120 netflix.com www.netflix.com
+54.165.246.104 netflix.com www.netflix.com
+34.229.8.114 netflix.com www.netflix.com
+54.87.188.169 netflix.com www.netflix.com
+35.166.68.183 netflix.co.id www.netflix.co.id
+54.208.233.73 netflix.co.id www.netflix.co.id
+52.204.167.205 netflix.co.id www.netflix.co.id
+35.169.83.64 netflix.co.id www.netflix.co.id
+52.71.147.164 netflix.co.id www.netflix.co.id
+34.234.59.120 netflix.co.id www.netflix.co.id
+54.165.246.104 netflix.co.id www.netflix.co.id
+34.229.8.114 netflix.co.id www.netflix.co.id
+54.87.188.169 netflix.co.id www.netflix.co.id
 
 [KISSMANGA.COM]
 104.25.45.113 kissmanga.com www.kissmanga.com
