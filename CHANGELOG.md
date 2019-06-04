@@ -1,4 +1,10 @@
 # Changelog
+**v6.1 build 0.10** Bugs fixed, & app improved
+
+```
+Fixed bug on Netflix & Dlsite
+```
+
 **v6.1** Bugs fixed, & app improved
 
 ```
