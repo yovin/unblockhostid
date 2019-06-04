@@ -20,7 +20,7 @@ Kurang lebih seperti itu, karena akses kecepatan Netflix dilimit oleh Internet P
 
 Kamu bisa download GoodbyeDPI disini.
 
-[Original](https://bitbucket.org/ValdikSS/goodbyedpi)
+[Original](https://github.com/ValdikSS/GoodbyeDPI)
 
 [Modified](https://files.catbox.moe/54sx6d.zip) / [Mirror](https://rspace.me/6860a6f61f) (Thanks to punkofthedeath - Tinggal extract lalu run install_service.cmd as Administrator.)
 
