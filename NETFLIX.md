@@ -22,7 +22,7 @@ Kamu bisa download GoodbyeDPI disini.
 
 [Original](https://bitbucket.org/ValdikSS/goodbyedpi)
 
-[Modified](https://files.catbox.moe/54sx6d.zip) [Mirror](https://rspace.me/6860a6f61f) (Thanks to punkofthedeath - Tinggal extract lalu run install_service.cmd as Administrator.)
+[Modified](https://files.catbox.moe/54sx6d.zip) / [Mirror](https://rspace.me/6860a6f61f) (Thanks to punkofthedeath - Tinggal extract lalu run install_service.cmd as Administrator.)
 
 Saya sarankan untuk menggunakan versi modified karena menginstallnya hanya sekali klik dan untuk menghapusnya juga mudah. Tetapi jika kalian mengerti cara menggunakan aplikasi tersebut silahkan pakai yang original.
 
