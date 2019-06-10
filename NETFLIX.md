@@ -22,9 +22,9 @@ Kamu bisa download GoodbyeDPI disini.
 
 [Original](https://github.com/ValdikSS/GoodbyeDPI)
 
-[Modified](https://files.catbox.moe/54sx6d.zip) / [Mirror](https://rspace.me/6860a6f61f) / [Mirror2](https://filebin.ca/4jivtUll4uI3/goodbyedpi-0.1.5rc1.zip) / [Mirror3](https://bin.jvnv.net/file/YuJJa/goodbyedpi-0.1.5rc1.zip) / [Mirror4](https://upload.vinahost.vn/YHIyh/goodbyedpi-0.1.5rc1.zip) / [Mirror5](https://transfer.sh/WVcuw/goodbyedpi-0.1.5rc1.zip) / [Mirror6](https://filebin.net/4nfk9he6qlhyads2) (Thanks to punkofthedeath - Tinggal extract lalu run install_service.cmd as Administrator.)
+[Modified](https://files.catbox.moe/54sx6d.zip) / [Mirror](https://rspace.me/6860a6f61f) / [Mirror2](https://filebin.ca/4jivtUll4uI3/goodbyedpi-0.1.5rc1.zip) / [Mirror3](https://bin.jvnv.net/file/YuJJa/goodbyedpi-0.1.5rc1.zip) / [Mirror4](https://upload.vinahost.vn/YHIyh/goodbyedpi-0.1.5rc1.zip) / [Mirror5](https://transfer.sh/WVcuw/goodbyedpi-0.1.5rc1.zip) / [Mirror6](https://filebin.net/4nfk9he6qlhyads2) (Thanks to punkofthedeath)
 
-Saya sarankan untuk menggunakan versi modified karena menginstallnya hanya sekali klik dan untuk menghapusnya juga mudah. Tetapi jika kalian mengerti cara menggunakan aplikasi tersebut silahkan pakai yang original.
+Saya sarankan untuk menggunakan versi modified karena menginstallnya mudah. Tetapi jika kalian mengerti cara menggunakan aplikasi tersebut, silahkan pakai yang original.
 
 Selesai, silahkan coba untuk memutar film di Netflix.
 
