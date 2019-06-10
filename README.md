@@ -1,4 +1,17 @@
 # UNBLOCKHOSTID
+<p align="center">
+    <img src="https://files.catbox.moe/lrcftz.png" alt="UNBLOCKHOSTID LOGO" width="330">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/github/license/gvoze32/unblockhostid.svg?style=flat-square">
+    <img src="https://img.shields.io/github/stars/gvoze32/unblockhostid.svg?style=flat-square">
+    <img src="https://img.shields.io/github/forks/gvoze32/unblockhostid.svg?style=flat-square">
+    <img src="https://img.shields.io/github/issues/gvoze32/unblockhostid.svg?style=flat-square">
+    <img src="https://img.shields.io/github/issues-closed/gvoze32/unblockhostid.svg?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/gvoze32/unblockhostid.svg?style=flat-square">
+    <img src="https://img.shields.io/github/size/gvoze32/unblockhostid/hosts.svg?style=flat-square">
+</p>
+
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts.
 
 # Download
