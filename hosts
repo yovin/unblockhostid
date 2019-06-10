@@ -187,6 +187,8 @@
 # [DONMAI.US]
 104.20.134.45 donmai.us www.donmai.us danbooru.donmai.us
 104.20.135.45 raikou1.donmai.us raikou2.donmai.us raikou3.donmai.us raikou4.donmai.us safebooru.donmai.us
+147.135.4.93 kagamihara.donmai.us
+147.135.10.29 shima.donmai.us
 
 # [BROMO.COM]
 94.199.249.240 bromo.com www.bromo.com
@@ -786,10 +788,8 @@
 104.18.54.65 mangadex.com www.mangadex.com
 
 # [HANIME.TV]
-104.27.6.29 hanime.tv www.hanime.tv uploads.hanime.tv ark.hanime.tv
-104.27.6.29 oberon.hanime.tv m.hanime.tv tapi.hanime.tv htv3.hanime.tv members.hanime.tv
-104.27.6.29 cdn.hanime.tv
-104.27.6.29 search.hanime.tv
+104.24.30.59 hanime.tv www.hanime.tv uploads.hanime.tv ark.hanime.tv cdn.hanime.tv search.hanime.tv
+104.24.30.59 oberon.hanime.tv m.hanime.tv tapi.hanime.tv htv3.hanime.tv members.hanime.tv
 
 # [PORNCORN.CO]
 5.254.97.172 porncorn.co www.porncorn.co
@@ -1100,6 +1100,7 @@
 
 # [SEX.COM]
 206.125.164.82 sex.com www.sex.com hd.sex.com m.sex.com video.sex.com gay.sex.com upload.sex.com premium.sex.com city.sex.com
+206.125.164.83 images.sex.com images1.sex.com images2.sex.com images3.sex.com images4.sex.com images5.sex.com
 
 # [THEFAPPENING.PRO]
 104.25.103.26 thefappening.pro www.thefappening.pro
@@ -1574,8 +1575,7 @@
 159.65.137.142 bbcsreborn.com www.bbcsreborn.com
 
 # [JLIST.COM]
-104.36.49.182 jlist.com www.jlist.com
-142.93.82.40 blog.jlist.com
+151.139.128.10 jlist.com www.jlist.com blog.jlist.com
 67.199.248.13 jli.st www.jli.st
 
 # [KISSKISS.TV]
@@ -1822,3 +1822,18 @@
 
 # [HENTAIGASM.COM]
 109.236.80.38 hentaigasm.com www.hentaigasm.com
+
+# [JAVMOBILE.NET]
+104.28.27.152 javmobile.net www.javmobile.net
+
+# [E-HENTAI.ME]
+104.31.11.173 e-hentai.me www.e-hentai.me
+
+# [HENTAIBEDTA.NET]
+101.99.75.91 hentaibedta.net www.hentaibedta.net
+
+# [DIRTYFLIX.COM]
+199.80.54.250 dirtyflix.com www.dirtyflix.com
+
+# [JAVSEEN.COM]
+104.27.138.56 javseen.com www.javseen.com

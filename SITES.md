@@ -427,3 +427,8 @@
 - Kisscosplay.moe
 - Tabootube.xxx
 - Hentaigasm.com
+- Javmobile.net
+- E-hentai.me
+- Hentaibedta.net
+- Dirtyflix.com
+- Javseen.com

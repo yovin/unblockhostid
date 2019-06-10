@@ -1,4 +1,17 @@
 # Changelog
+**v6.2** New sites added, bugs fixed, & app improved
+- Javmobile.net
+- E-hentai.me
+- Hentaibedta.net
+- Dirtyflix.com
+- Javseen.com
+
+```
+Fixed bug on Sex, Jlist, Donmai, & Hanime
+
+Fixed GoodbyeDPI file & in-app architecture checker before running the app.
+```
+
 **v6.1 build 0.10** Bugs fixed, & app improved
 
 ```
