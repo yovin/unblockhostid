@@ -47,6 +47,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 151.101.129.140 blog.reddit.com
 151.101.129.140 4x.reddit.com
 151.101.1.140 chat.reddit.com
+151.101.201.140 mod.reddit.com
 
 [VIMEO.COM]
 151.101.130.109 i.vimeocdn.com
@@ -765,6 +766,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 [HANIME.TV]
 104.24.30.59 hanime.tv www.hanime.tv uploads.hanime.tv ark.hanime.tv cdn.hanime.tv search.hanime.tv
 104.24.30.59 oberon.hanime.tv m.hanime.tv tapi.hanime.tv htv3.hanime.tv members.hanime.tv
+151.101.65.195 player.hanime.tv
 
 [PORNCORN.CO]
 5.254.97.172 porncorn.co www.porncorn.co
@@ -1008,7 +1010,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 91.212.150.157 katcr.co www.katcr.co
 
 [1337X.TO]
-104.31.16.3 1337x.to www.1337x.to
+104.31.17.3 1337x.to www.1337x.to cdn.1337x.to ssa.1337x.to chat.1337x.to
 
 [YTS.AM]
 104.27.214.28 yts.am www.yts.am
@@ -1812,3 +1814,15 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 
 [JAVSEEN.COM]
 104.27.138.56 javseen.com www.javseen.com
+
+[EXPLOITEDCOLLEGEGIRLS.COM]
+99.192.194.109 exploitedcollegegirls.com www.exploitedcollegegirls.com members.exploitedcollegegirls.com
+
+[EXCOGI.COM]
+184.168.131.241 excogi.com www.excogi.com
+
+[HENTAI-FOR.ME]
+104.31.82.117 hentai-for.me www.hentai-for.me
+
+[ONLYFANS.COM]
+54.175.88.73 onlyfans.com www.onlyfans.com

@@ -1,4 +1,14 @@
 # Changelog
+**v6.3** New sites added, bugs fixed
+- Exploitedcollegegirls.com
+- Excogi.com
+- Onlyfans.com
+- Hentai-for.me
+
+```
+Fixed bug on 1337x
+```
+
 **v6.2** New sites added, bugs fixed, & app improved
 - Javmobile.net
 - E-hentai.me

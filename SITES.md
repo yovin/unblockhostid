@@ -432,3 +432,7 @@
 - Hentaibedta.net
 - Dirtyflix.com
 - Javseen.com
+- Exploitedcollegegirls.com
+- Excogi.com
+- Onlyfans.com
+- Hentai-for.me
