@@ -1113,8 +1113,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 104.18.33.27 javhiv.net www.javhiv.net
 
 [RULE34.XXX]
-104.25.223.113 rule34.xxx www.rule34.xxx
-104.25.223.113 img.rule34.xxx
+104.25.223.113 rule34.xxx www.rule34.xxx hk.rule34.xxx img.rule34.xxx
 185.180.221.231 webmc.rule34.xxx
 89.233.106.186 webm.rule34.xxx
 
