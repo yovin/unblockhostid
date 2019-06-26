@@ -1546,7 +1546,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 99.84.254.72 manyvids.com www.manyvids.com
 
 [JAV.GURU]
-104.25.143.28 jav.guru www.jav.guru
+104.25.143.28 jav.guru www.jav.guru static.jav.guru
 
 [BBCSREBORN.COM]
 159.65.137.142 bbcsreborn.com www.bbcsreborn.com
@@ -1822,7 +1822,13 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 184.168.131.241 excogi.com www.excogi.com
 
 [HENTAI-FOR.ME]
-104.31.82.117 hentai-for.me www.hentai-for.me
+104.31.82.117 hentai-for.me www.hentai-for.me en.hentai-for.me
 
 [ONLYFANS.COM]
 54.175.88.73 onlyfans.com www.onlyfans.com
+
+[BEEG.COM]
+192.243.54.98 beeg.com www.beeg.com
+213.174.135.1 img.beeg.com
+213.174.135.2 vp.beeg.com
+88.208.31.5 video.beeg.com
