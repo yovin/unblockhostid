@@ -49,6 +49,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 151.101.1.140 chat.reddit.com
 151.101.201.140 mod.reddit.com
 151.101.201.140 accounts.reddit.com
+151.101.53.140 v.redd.it
 
 [VIMEO.COM]
 151.101.130.109 i.vimeocdn.com
