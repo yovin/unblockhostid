@@ -1014,9 +1014,9 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 [1337X.TO]
 104.31.17.3 1337x.to www.1337x.to cdn.1337x.to ssa.1337x.to chat.1337x.to
 
-[YTS.AM]
-104.27.214.28 yts.am www.yts.am
-212.8.242.150 img.yts.am
+[YTS.LT]
+104.25.135.117 yts.lt www.yts.lt
+109.236.84.193 img.yts.lt
 
 [GOJAV.XYZ]
 104.31.79.158 gojav.xyz www.gojav.xyz
@@ -1833,3 +1833,6 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 213.174.135.1 img.beeg.com
 213.174.135.2 vp.beeg.com
 88.208.31.5 video.beeg.com
+
+[HENTAIHAND.COM]
+104.26.6.153 hentaihand.com www.hentaihand.com

@@ -73,6 +73,8 @@
 151.101.129.140 4x.reddit.com
 151.101.1.140 chat.reddit.com
 151.101.201.140 mod.reddit.com
+151.101.201.140 accounts.reddit.com
+151.101.53.140 v.redd.it
 
 # [VIMEO.COM]
 151.101.130.109 i.vimeocdn.com
@@ -1037,9 +1039,9 @@
 # [1337X.TO]
 104.31.17.3 1337x.to www.1337x.to cdn.1337x.to ssa.1337x.to chat.1337x.to
 
-# [YTS.AM]
-104.27.214.28 yts.am www.yts.am
-212.8.242.150 img.yts.am
+# [YTS.LT]
+104.25.135.117 yts.lt www.yts.lt
+109.236.84.193 img.yts.lt
 
 # [GOJAV.XYZ]
 104.31.79.158 gojav.xyz www.gojav.xyz
@@ -1138,8 +1140,7 @@
 104.18.33.27 javhiv.net www.javhiv.net
 
 # [RULE34.XXX]
-104.25.223.113 rule34.xxx www.rule34.xxx
-104.25.223.113 img.rule34.xxx
+104.25.223.113 rule34.xxx www.rule34.xxx hk.rule34.xxx img.rule34.xxx
 185.180.221.231 webmc.rule34.xxx
 89.233.106.186 webm.rule34.xxx
 
@@ -1571,7 +1572,7 @@
 99.84.254.72 manyvids.com www.manyvids.com
 
 # [JAV.GURU]
-104.25.143.28 jav.guru www.jav.guru
+104.25.143.28 jav.guru www.jav.guru static.jav.guru
 
 # [BBCSREBORN.COM]
 159.65.137.142 bbcsreborn.com www.bbcsreborn.com
@@ -1847,7 +1848,16 @@
 184.168.131.241 excogi.com www.excogi.com
 
 # [HENTAI-FOR.ME]
-104.31.82.117 hentai-for.me www.hentai-for.me
+104.31.82.117 hentai-for.me www.hentai-for.me en.hentai-for.me
 
 # [ONLYFANS.COM]
 54.175.88.73 onlyfans.com www.onlyfans.com
+
+# [BEEG.COM]
+192.243.54.98 beeg.com www.beeg.com
+213.174.135.1 img.beeg.com
+213.174.135.2 vp.beeg.com
+88.208.31.5 video.beeg.com
+
+# [HENTAIHAND.COM]
+104.26.6.153 hentaihand.com www.hentaihand.com
