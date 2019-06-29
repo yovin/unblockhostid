@@ -212,7 +212,7 @@
 - Pornolab.net
 - Katcr.co
 - 1337x.to
-- Yts.am
+- Yts.lt
 - 8ch.net
 - Gojav.xyz
 - Rarbgaccess.org
@@ -436,3 +436,5 @@
 - Excogi.com
 - Onlyfans.com
 - Hentai-for.me
+- Beeg.com
+- Hentaihand.com

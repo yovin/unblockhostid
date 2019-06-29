@@ -1,4 +1,13 @@
 # Changelog
+**v6.4** New sites added, bugs fixed
+- Beeg.com
+- Hentaihand.com
+
+```
+Fixed bug on Jav, Hentai-for
+Moved Yts.am to Yts.lt
+```
+
 **v6.3** New sites added, bugs fixed
 - Exploitedcollegegirls.com
 - Excogi.com
