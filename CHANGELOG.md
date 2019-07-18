@@ -1,4 +1,17 @@
 # Changelog
+**v6.5** New sites added, bugs fixed
+- Verystream.com
+- Hennojin.com
+- Melkormancin.com
+- Omochikaeri.wordpress.com
+- Sexvid.xxx
+- Hentaigamer.net
+- Imghentai.site
+
+```
+Fixed bug on Dmm, Netflix, Reddit
+```
+
 **v6.4** New sites added, bugs fixed
 - Beeg.com
 - Hentaihand.com

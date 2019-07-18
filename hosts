@@ -74,7 +74,10 @@
 151.101.1.140 chat.reddit.com
 151.101.201.140 mod.reddit.com
 151.101.201.140 accounts.reddit.com
-151.101.53.140 v.redd.it
+151.101.53.140 v.redd.it s.reddit.com external-preview.redd.it
+151.101.189.140 preview.redd.it
+151.101.69.140 styles.redditmedia.com
+151.101.41.140 gql.reddit.com
 
 # [VIMEO.COM]
 151.101.130.109 i.vimeocdn.com
@@ -329,6 +332,7 @@
 157.112.85.173 www.dmm.co.jp
 103.254.146.221 sample9.dmm.co.jp
 202.6.247.196 dlsoft.dmm.co.jp
+43.255.40.206 games.dmm.co.jp games.dmm.com
 
 # [JAVLIBRARY.COM]
 104.18.62.228 javlibrary.com www.javlibrary.com
@@ -413,6 +417,23 @@
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 # [NETFLIX.COM]
+23.44.160.210 secure.netflix.com
+35.161.193.3 movies.netflix.com
+52.89.152.185 cbp-us.nccp.netflix.com
+35.153.94.156 movies1.netflix.com
+52.51.43.226 movies2.netflix.com
+207.45.72.201 dvd.netflix.com autocomplete.netflix.com bluray.netflix.com
+52.35.135.231 moviecontrol.netflix.com
+52.27.92.135 api.netflix.com
+54.68.141.65 www2.netflix.com
+52.38.81.70 nccp-nrdp-31.cloud.netflix.net
+52.40.31.103 ios.nccp.netflix.com
+34.214.51.73 uiboot.netflix.com
+52.42.209.103 signup.netflix.com
+54.208.4.8 nccp-fuji.cloud.netflix.net nccp-nato.cloud.netflix.net
+184.25.56.188 mcdn.netflix.com
+35.163.147.163 nccp-ps3.cloud.netflix.net
+54.213.39.40 api-user.netflix.com
 184.26.82.98 assets.nflxext.com
 69.172.200.241 ir.netflix.com
 54.192.13.23 media.netflix.com
@@ -422,25 +443,8 @@
 207.45.72.215 nflxext.com nflximg.com
 52.37.168.202 api-global.netflix.com
 52.34.255.169 ichnaea.netflix.com
-# Unique Netflix Ip's
-35.166.68.183 netflix.com www.netflix.com
-54.208.233.73 netflix.com www.netflix.com
-52.204.167.205 netflix.com www.netflix.com
-35.169.83.64 netflix.com www.netflix.com
-52.71.147.164 netflix.com www.netflix.com
-34.234.59.120 netflix.com www.netflix.com
-54.165.246.104 netflix.com www.netflix.com
-34.229.8.114 netflix.com www.netflix.com
-54.87.188.169 netflix.com www.netflix.com
-35.166.68.183 netflix.co.id www.netflix.co.id
-54.208.233.73 netflix.co.id www.netflix.co.id
-52.204.167.205 netflix.co.id www.netflix.co.id
-35.169.83.64 netflix.co.id www.netflix.co.id
-52.71.147.164 netflix.co.id www.netflix.co.id
-34.234.59.120 netflix.co.id www.netflix.co.id
-54.165.246.104 netflix.co.id www.netflix.co.id
-34.229.8.114 netflix.co.id www.netflix.co.id
-54.87.188.169 netflix.co.id www.netflix.co.id
+35.160.112.124 netflix.com www.netflix.com
+52.32.78.165 netflix.co.id www.netflix.co.id
 
 # [KISSMANGA.COM]
 104.25.45.113 kissmanga.com www.kissmanga.com
@@ -1143,6 +1147,7 @@
 104.25.223.113 rule34.xxx www.rule34.xxx hk.rule34.xxx img.rule34.xxx
 185.180.221.231 webmc.rule34.xxx
 89.233.106.186 webm.rule34.xxx
+209.58.190.226 hkwebm.rule34.xxx
 
 # [HLEECHER.TK]
 104.236.82.224 hleecher.tk www.hleecher.tk
@@ -1861,3 +1866,24 @@
 
 # [HENTAIHAND.COM]
 104.26.6.153 hentaihand.com www.hentaihand.com
+
+# [VERYSTREAM.COM]
+104.20.131.131 verystream.com www.verystream.com
+
+# [HENNOJIN.COM]
+192.185.33.203 hennojin.com www.hennojin.com
+
+# [MELKORMANCIN.COM]
+207.244.64.7 melkormancin.com www.melkormancin.com
+
+# [OMOCHIKAERI.WORDPRESS.COM]
+192.0.78.12 omochikaeri.wordpress.com www.omochikaeri.wordpress.com
+
+# [SEXVID.XXX]
+162.251.108.60 sexvid.xxx www.sexvid.xxx
+
+# [HENTAIGAMER.NET]
+104.28.27.208 hentaigamer.net www.hentaigamer.net
+
+# [IMGHENTAI.SITE]
+64.62.206.232 imghentai.site www.imghentai.site

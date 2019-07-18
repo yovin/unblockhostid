@@ -437,4 +437,11 @@
 - Onlyfans.com
 - Hentai-for.me
 - Beeg.com
+- Verystream.com
+- Hennojin.com
+- Melkormancin.com
+- Omochikaeri.wordpress.com
+- Sexvid.xxx
+- Hentaigamer.net
+- Imghentai.site
 - Hentaihand.com
